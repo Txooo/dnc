@@ -12,9 +12,9 @@
 * 联盟节点：参与峰会直播/转播的网站平台、微信群、QQ群将成为峰会联盟节点
 
 ## 演讲主题
-dnc、微服务、开源区块链、人工智能、Azure云、Service Fabric、DevOps、VSTS、Xamarin、Unity3D、TypeScript、Vue、微信小程序、Tidb、Redis、RabbitMQ、Kafka、ELK、Ocelot、office365、Linux、Docker、Rancher、k8s、量子计算、天使VC、创业经验分享……等
+* dnc、微服务、开源区块链、人工智能、Azure云、Service Fabric、DevOps、VSTS、Xamarin、Unity3D、TypeScript、Vue、微信小程序、Tidb、Redis、RabbitMQ、Kafka、ELK、Ocelot、office365、Linux、Docker、Rancher、k8s、量子计算、天使VC、创业经验分享……等
 
-dnc = .NET Core、dotnet Core
+* dnc = .NET Core、dotnet Core
 
 ## 已报名讲师16人（按报名时间）
 * 有的讲师已报名、主题待定
@@ -50,10 +50,10 @@ dnc = .NET Core、dotnet Core
 * 听众无需报名，在联盟节点 视频直播平台、QQ群、微信群、电报群、Twitter、Facebook…观看
 
 
-### 这将是一场与众不同、影响深远的
-### 去中心化、社区驱动 开源技术峰会
-### 放下包袱、轻装上阵
-### 欢迎进入dnc新时代
+#### 这将是一场与众不同、影响深远的
+#### 去中心化、社区驱动 开源技术峰会
+#### 放下包袱、轻装上阵
+#### 欢迎进入dnc新时代
 
 * 峰会官网 [dncNew.com](http://dncNew.com) 
 * [github.com/dncNew](http://github.com/dncNew)
