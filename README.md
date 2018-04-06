@@ -49,6 +49,18 @@
 ### 听众报名方式
 * 听众无需报名，在联盟节点 视频直播平台、QQ群、微信群、电报群、Twitter、Facebook…观看
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
+<img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
+</div>
+
+```
+```
+
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc1.png" height="180"  >
+<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc2.png" height="180"  >
+</div>
 
 #### 这将是一场与众不同、影响深远的
 #### 去中心化、社区驱动 开源技术峰会
