@@ -71,5 +71,6 @@
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
+* [facebook.com/dncNew](https://www.facebook.com/dncNew)
 * 联盟节点QQ群 618093978
 
