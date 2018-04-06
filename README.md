@@ -16,7 +16,7 @@
 
 * dnc = .NET Core、dotnet Core
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
@@ -39,7 +39,7 @@
 * 李争《微软互联网信息服务IIS最佳实践》作者《dnc在Linux下调试》
 * 刘腾飞 原“生意专家”电商平台技术总监，知名视频教程作者《dnc 微服务 on k8s》
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
 </div>
 
@@ -57,7 +57,7 @@
 ### 听众报名方式
 * 听众无需报名，在联盟节点 视频直播平台、QQ群、微信群、电报群、Twitter、Facebook…观看
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/dnc1.png" height="200">   
 <img src="https://github.com/dncNew/dncNew/raw/master/img/dnc2.png" height="200">
 </div>
