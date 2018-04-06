@@ -5,3 +5,4 @@
 *.zip linguist-language=C#
 *.png linguist-language=C#
 *.jpg linguist-language=C#
+*.md linguist-language=C#
