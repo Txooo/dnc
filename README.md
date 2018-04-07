@@ -12,7 +12,7 @@
 * 联盟节点：参与峰会直播/转播的网站平台、微信群、QQ群将成为峰会联盟节点
 
 ## 演讲主题
-* dnc、微服务、开源区块链、人工智能、Azure云、Service Fabric、DevOps、VSTS、Xamarin、Unity3D、TypeScript、Vue、微信小程序、Tidb、Redis、RabbitMQ、Kafka、ELK、Ocelot、office365、Linux、Docker、Rancher、k8s、量子计算、天使VC、创业经验分享……等
+* dnc、微服务、开源区块链、人工智能、Azure云、IoT、Service Fabric、DevOps、VSTS、Xamarin、Unity3D、TypeScript、Vue、微信小程序、Tidb、Redis、RabbitMQ、Kafka、ELK、Ocelot、office365、Linux、Docker、Rancher、k8s、量子计算、天使VC、创业经验分享……等
 
 * dnc = .NET Core、dotnet Core
 
