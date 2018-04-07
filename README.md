@@ -40,7 +40,7 @@
 * 刘腾飞 原“生意专家”电商平台技术总监，现自己创业，知名视频教程作者《dnc 微服务 on k8s》
 * 刘永新 NEO中国开发者社区NEL创始人、NEO域名服务NNS创始人
 * Christina Liang 微软全球MVP项目大中华区负责人
-* 管震 微软公司首席技术顾问、《云，就该这么玩》作者
+* 管震 微软中国首席技术顾问、《云，就该这么玩》作者
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
