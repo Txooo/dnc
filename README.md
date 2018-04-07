@@ -67,6 +67,14 @@
 * 放下包袱、轻装上阵
 * 欢迎进入dnc新时代
 
+### 峰会主办方
+* dnc开源社区CTO联盟
+* aelf基金会
+
+### 峰会赞助商
+* aelf基金会 www.aelf.io
+
+### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com) 
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
