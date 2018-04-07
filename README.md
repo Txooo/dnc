@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 已报名讲师17人（按报名时间）
+## 已报名讲师18人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 资深架构师Xamarin、Azure
 * 朱永光 资深架构师《基于sf和idsvr4实现高可用高伸缩的单点登录平台》
@@ -38,7 +38,8 @@
 * 刘圣波 北京林业大学工学院教师 研究工业控制方向的.net应用 《.net开源跨平台工业组态软件RapidScada》
 * 李争《微软互联网信息服务IIS最佳实践》作者《dnc在Linux下调试》
 * 刘腾飞 原“生意专家”电商平台技术总监，现自己创业，知名视频教程作者《dnc 微服务 on k8s》
-* 刘永新 NEL：NEO中国开发者社区创始人、NEO域名服务nns创始人
+* 刘永新 NEO中国开发者社区NEL创始人、NEO域名服务NNS创始人
+* Christina Liang 微软全球MVP项目大中华区负责人
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
