@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师20人（按报名时间）
+## 峰会讲师21人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 资深架构师Xamarin、Azure
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -42,6 +42,7 @@
 * Christina Liang 微软全球MVP项目大中华区负责人
 * 管震 微软中国首席技术顾问、《云，就该这么玩》作者
 * 卢建晖 Xamarin最有价值专家、人工智能AR/VR/MR教育行业应用《移动DevOps》《Xamarin与Azure Cognitive Service》
+* 马洪喜 深圳行云创新科技有限公司CTO， 聚焦于微服务架构支撑平台的研发，为包括华为等大型企业提供.NET Core、.NET微服务咨询和平台支撑服务
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
