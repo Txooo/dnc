@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师24人（按报名时间）
+## 峰会讲师25人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -45,7 +45,8 @@
 * 马洪喜 深圳行云创新科技有限公司CTO， 聚焦于微服务架构支撑平台的研发，为包括华为等大型企业提供.NET Core、.NET微服务咨询和平台支撑服务
 * 桂素伟 大连医卫技术总监、.NET Core布道师、《dnc微服务架构》
 * 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
-* 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者，《Office 365 开发的开源平台支持》
+* 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者、《Office 365 开发的开源平台支持》
+* Anduin 北京切尔思科技有限公司架构师、兼任东北大学信息安全工程师、《dnc + Angular 前后端分离PWA实战》
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
