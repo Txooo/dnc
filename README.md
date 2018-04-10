@@ -83,7 +83,7 @@
 * aelf基金会 www.aelf.io
 
 ### 峰会联盟节点
-* 峰会官网 [dncNew.com](http://dncNew.com) 
+* 峰会官网 [dncNew.com](http://dncNew.com)、[dotnetNew.com](http://dotnetNew.com) 
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
