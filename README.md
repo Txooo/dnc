@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师23人（按报名时间）
+## 峰会讲师24人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 资深架构师Xamarin、Azure
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -29,7 +29,7 @@
 * 陈计节 ThoughtWorks 资深架构师
 * 潘淳 中国Office开发者联盟发起人
 * Mike dnc开源社区CEO/CTO/VC联盟发起人
-* 苏震巍 盛派网络创始人，微信公众号、小程序开发
+* 苏震巍 盛派网络创始人，首席架构师
 * 东海 东海联梦创始人 原微软官方案例首席构架师
 * 杨中科 如鹏网创始人
 * Lex Li 摩根士丹利
@@ -45,6 +45,7 @@
 * 马洪喜 深圳行云创新科技有限公司CTO， 聚焦于微服务架构支撑平台的研发，为包括华为等大型企业提供.NET Core、.NET微服务咨询和平台支撑服务
 * 桂素伟 大连医卫技术总监、.NET Core布道师、《dnc微服务架构》
 * 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
+* 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者，《Office 365 开发的开源平台支持》
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
