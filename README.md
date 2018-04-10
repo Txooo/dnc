@@ -20,11 +20,11 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师22人（按报名时间）
+## 峰会讲师23人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 资深架构师Xamarin、Azure
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
-* 刘海峰 区块链梦工场、STB创始人
+* 刘海峰 STB Chain Foundation主席，工信部MIC区块链专委会理事长，BDFund合伙人，区块链梦工场创始人
 * 俞阳 青客高级研发经理
 * 陈计节 ThoughtWorks 资深架构师
 * 潘淳 中国Office开发者联盟发起人
@@ -44,6 +44,7 @@
 * 卢建晖 Xamarin最有价值专家、人工智能AR/VR/MR教育行业应用《移动DevOps》《Xamarin与Azure Cognitive Service》
 * 马洪喜 深圳行云创新科技有限公司CTO， 聚焦于微服务架构支撑平台的研发，为包括华为等大型企业提供.NET Core、.NET微服务咨询和平台支撑服务
 * 桂素伟 大连医卫技术总监、.NET Core布道师、《dnc微服务架构》
+* 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
