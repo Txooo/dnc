@@ -79,13 +79,16 @@
 
 ### 峰会主办方
 * dnc开源社区CTO联盟
+* 视高盛景
 * aelf基金会
 
 ### 峰会赞助商
+* 微软中国
 * aelf基金会 www.aelf.io
 
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com)、[dotnetNew.com](http://dotnetNew.com) 
+* 峰会视频直播官网 [视高盛景](http://bxug.bopoda.com/p/event/NETConfChina2018)
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
