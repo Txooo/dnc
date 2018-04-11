@@ -79,12 +79,12 @@
 
 ### 峰会主办方
 * [dnc开源社区CTO联盟](http://dncNew.com)
-* [视高盛景](http://www.highviewsoft.com)
 * [aelf基金会](https://www.aelf.io)
+* [视高盛景](http://www.highviewsoft.com)
 
 ### 峰会赞助商
-* [微软中国](https://www.microsoft.com)
 * [aelf基金会](https://www.aelf.io)
+* [微软中国](https://www.microsoft.com)
 
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com)、[dotnetNew.com](http://dotnetNew.com) 
