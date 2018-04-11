@@ -84,7 +84,6 @@
 
 ### 峰会赞助商
 * [aelf基金会](https://www.aelf.io)
-* [微软中国](https://www.microsoft.com)
 
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com)、[dotnetNew.com](http://dotnetNew.com) 
