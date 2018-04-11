@@ -31,7 +31,7 @@
 * Mike dnc开源社区CEO/CTO/VC联盟发起人
 * 苏震巍 盛派网络创始人，首席架构师
 * 鲍东海 全球区块链大数据创始人兼CTO、前微软官方成功案例首席构架师
-* 杨中科 如鹏网创始人
+* 杨中科 如鹏网创始人、IT在线教育专家
 * Lex Li 摩根士丹利
 * 张善友 腾讯资深工程师 NanoFabric
 * 白海石 微软美国 资深技术专家 Service Fabric、virtual-kubelet
