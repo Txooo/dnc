@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师26人（按报名时间）
+## 峰会讲师27人（按报名时间）
 * 有的讲师已报名、主题待定
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -47,7 +47,8 @@
 * 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
 * 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者、《Office 365 开发的开源平台支持》
 * Anduin 北京切尔思科技有限公司架构师、兼任东北大学信息安全工程师、《dnc + Angular 前后端分离PWA实战》
-* 杨志洪  DBAplus社群联合发起人，《Oracle核心技术》译者
+* 杨志洪 DBAplus社群联合发起人，《Oracle核心技术》译者
+* 衣明志 烟台易云网络创始人
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
