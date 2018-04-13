@@ -112,7 +112,7 @@
 
 * https://www.microsoft.com/net/customers
 
-### dnc招聘 40个公司职位2018年4月更新
+### 2018年4月更新40个公司dnc招聘信息
 
 * https://github.com/dncNew/dncNew/issues/2
 
