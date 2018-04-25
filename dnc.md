@@ -65,6 +65,11 @@ https://github.com/ontio
 * 盛派网络 Senparc.Weixin 微信dnc C# SDK
 https://github.com/JeffreySu/WeiXinMPSDK
 
+### dnc开源Excel类库
+* EPPlus 支持dnc的开源Excel操作类库，代码优雅，高性能，易集成 
+https://github.com/JanKallman/EPPlus 
+https://www.nuget.org/packages/EPPlus
+
 ### dnc开源教程
 * 开源Asky极简架构、超轻量级、高并发、水平扩展、微服务架构《Asky极简教程：零基础1小时学编程 dnc+vue+tidb/mysql/postgreSql+redis+rabbitMQ+ElasticSearch开源架构》
 http://AskyEdu.com
