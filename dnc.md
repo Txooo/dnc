@@ -115,6 +115,7 @@ https://github.com/vuejs/vue
 * 微软dnc最新版本 https://github.com/dotnet/core/blob/master/release-notes/download-archive.md
 * dotnetRocks 技术播客 https://dotnetrocks.com
 * dnc C#、Java、PHP、Python 5分钟入门Azure教程 https://docs.microsoft.com/zh-cn/azure
+* 微软开源sf微服务框架 5分钟入门教程 https://docs.microsoft.com/zh-cn/azure/service-fabric/
 * dnc开源社区QQ群：618093978
 * asky极简教程QQ群：546200985
 
