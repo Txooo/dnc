@@ -112,12 +112,12 @@
 
 * https://www.microsoft.com/net/customers
 
-### 2018年4月更新70个公司dnc招聘信息
+### dnc招聘信息70多个公司
 
 * https://github.com/dncNew/dncNew/issues/2
 
 ### dnc开源梦之队2018
 
-* https://github.com/dncNew/dncNew/dnc.md
+* https://github.com/dncNew/dncNew/blob/master/dnc.md
 
 
