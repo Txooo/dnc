@@ -108,6 +108,11 @@ https://github.com/vuejs/vue
 * 微软.NET基金会 https://dotnetfoundation.org/blog
 * 微软MSDN月刊电子杂志 https://msdn.microsoft.com/magazine
 * dotnetCurry 双月刊电子杂志 http://www.dotnetcurry.com/magazine
+* Scott Hanselman 技术博客 http://www.hanselman.com
+* 微软dev官方博客 https://blogs.msdn.microsoft.com/developer-tools
+* 微软c9技术视频 https://channel9.msdn.com
+* 微软Visual Studio最新版下载 https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes
+* 微软dnc最新版本 https://github.com/dotnet/core/blob/master/release-notes/download-archive.md
 * dotnetRocks 技术播客 https://dotnetrocks.com
 * dnc C#、Java、PHP、Python 5分钟入门Azure教程 https://docs.microsoft.com/zh-cn/azure
 * dnc开源社区QQ群：618093978
