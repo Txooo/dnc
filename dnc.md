@@ -44,7 +44,7 @@ https://github.com/ElectronNET
 http://avaloniaui.net
 https://github.com/AvaloniaUI/Avalonia
 
-### dnc开源区块链C#
+### dnc C#开源区块链
 
 * neo小蚁开源区块链，基于dnc C#开发主链
 https://github.com/neo-project
