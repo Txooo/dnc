@@ -104,6 +104,7 @@ https://github.com/vuejs/vue
 * csharp工具包 http://www.csharpkit.com/
 * 51aspx源码专家 http://www.51aspx.com/
 * DevOps案例实战 http://devopshub.cn/
+* dnc知名公司招聘信息 http://www.cnblogs.com/dncNew/p/dncjob.html
 * 微软.NET基金会 https://dotnetfoundation.org/blog
 * 微软MSDN月刊电子杂志 https://msdn.microsoft.com/magazine/
 * dotnetCurry 双月刊电子杂志 http://www.dotnetcurry.com/magazine/
