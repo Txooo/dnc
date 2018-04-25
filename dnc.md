@@ -82,13 +82,12 @@ https://github.com/AskyEdu
 * qcloud 腾讯云，成功案例：聚美优品、小红书、快手、泰康人寿、中金在线……等公司  https://cloud.tencent.com/
 
 ### 开源前端框架
-* vue 国内排名第一的前端开源框架，轻量级、1天入门
+* vue 国内排名第一的前端开源框架，轻量级、1天入门 
 https://vuejs.org/
 https://github.com/vuejs/vue
 
 ### 开源UI界面组件
-* eleui = elementUI 国内流行的开源UI界面组件库，基于vue开发
-http://element.eleme.io
+* eleui = elementUI 流行的开源UI界面组件库 http://element.eleme.io
 
 ### 开源可视化图表控件
 * echart 百度开源可视化图表控件 http://echarts.baidu.com
