@@ -12,13 +12,18 @@
 
 
 ### dnc开源ORM
-* dp = dapper 全球知名技术社区stackoverflow.com官方开源ORM项目，支撑全球海量用户高并发访问，解决EF/EFCore痛点，sql语句自主可控、超轻量级、高性能、经过大规模实战检验
+* dp = dapper 全球知名技术社区stackoverflow.com官方开源ORM项目，支撑全球海量用户高并发访问，解决EF/EFCore痛点，sql语句自主可控、超轻量级、高性能、经过大规模实战检验 https://github.com/StackExchange/Dapper
 
 ### dnc开源Redis类库
 * ser = StackExchange.Redis 全球知名技术社区stackoverflow.com官方开源项目，支撑全球海量用户高并发访问，支持Redis Cluster集群
+https://github.com/StackExchange/StackExchange.Redis
 
 ### dnc开源微服务框架
-* sf = service fabric 微软开源“沙发” 微服务框架，微软云核心组件，经过超大规模云平台实战检验，底层基于C++开发，应用层支持C#、Java……等，可部署到本地数据中心、Azure云、其它云，支持Linux、WinServer系统
+* sf = service fabric 微软开源“沙发” 微服务框架，微软云核心组件，经过超大规模云平台实战检验，底层基于C++开发，应用层支持C#、Java……等，可部署到本地数据中心、Azure云、其它云，支持Linux、WinServer系统，成功案例：腾讯游戏、宝马汽车……等多家世界500强公司和大量新兴公司在使用
+https://github.com/Microsoft/service-fabric
+中文文档 https://docs.microsoft.com/zh-cn/azure/service-fabric/
+https://www.azure.cn/zh-cn/home/features/service-fabric/
+https://azure.microsoft.com/zh-cn/services/service-fabric/
 
 ### dnc开源Tidb/Mysql/MariaDb类库
 * mc = MysqlConnector 比Oracle官方MySql驱动更好用、高性能、轻量级、纯异步
@@ -27,6 +32,8 @@ https://mysql-net.github.io/MySqlConnector
 
 ### dnc开源原生app开发框架Android、iOS
 * xa = xamarin 微软开源免费 原生app开发框架，支持Android、iOS，高性能、易学习、流畅的原生app体验 www.xamarin.com https://github.com/xamarin
+
+xamarin官方文档 https://docs.microsoft.com/zh-cn/xamarin
 
 * 视高盛景：国内Xamarin专业技术服务商 http://www.highviewsoft.com
 
@@ -86,6 +93,38 @@ https://github.com/AskyEdu
 
 * qcloud 腾讯云，成功案例：聚美优品、小红书、快手、泰康人寿、中金在线……等公司  https://cloud.tencent.com
 
+### dnc开源电商系统
+
+* nop = nopcommerce  https://www.nopcommerce.com
+https://github.com/nopSolutions/nopCommerce
+
+* virto = virtocommerce 正在升级dnc  https://virtocommerce.com  
+https://github.com/VirtoCommerce/vc-platform
+
+### dnc开源RabbitMQ类库
+* rmc = RabbitMQ.Client 官方开源类库
+http://www.rabbitmq.com/dotnet.html
+https://www.nuget.org/packages/RabbitMQ.Client
+https://github.com/rabbitmq/rabbitmq-dotnet-client
+
+### dnc开源Kafka类库
+* Confluent.Kafka  https://confluent.io
+https://github.com/confluentinc/confluent-kafka-dotnet
+https://www.nuget.org/packages/Confluent.Kafka
+http://www.managershare.com/post/204362
+
+* rdkafka已迁移到Confluent.Kafka
+https://github.com/ah-/rdkafka-dotnet
+
+### dnc开源ElasticSearch类库
+* Elasticsearch.Net 是ES官方提供的底层类库
+https://www.nuget.org/packages/Elasticsearch.Net/
+https://github.com/elastic/elasticsearch-net
+
+* NEST 是ES官方提供的基于Elasticsearch.Net封装的高层类库，更方便使用
+https://www.nuget.org/packages/NEST/
+https://github.com/elastic/elasticsearch-net
+
 ### 开源前端框架
 * vue 国内排名第一的前端开源框架，轻量级、1天入门 
 https://vuejs.org/
@@ -116,6 +155,8 @@ https://github.com/vuejs/vue
 * dotnetRocks 技术播客 https://dotnetrocks.com
 * dnc C#、Java、PHP、Python 5分钟入门Azure教程 https://docs.microsoft.com/zh-cn/azure
 * 微软开源sf微服务框架 5分钟入门教程 https://docs.microsoft.com/zh-cn/azure/service-fabric/
+* xamarin 官方文档 https://docs.microsoft.com/zh-cn/xamarin/
+* dnc Api查询 https://docs.microsoft.com/zh-cn/dotnet/api/
 * dnc开源社区QQ群：618093978
 * asky极简教程QQ群：546200985
 
