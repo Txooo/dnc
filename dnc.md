@@ -33,6 +33,11 @@ https://azure.microsoft.com/zh-cn/services/service-fabric/
 https://nuget.org/packages/MySqlConnector
 https://mysql-net.github.io/MySqlConnector
 
+### dnc开源PostgreSql类库
+* npgsql 支持dapper连接PostgreSql开源数据库 
+https://www.nuget.org/packages/Npgsql  
+http://www.npgsql.org
+
 ### 开源数据库
 
 * ti = Tidb开源NewSql分布式数据库，基于Google F1/Spanner论文实现的开源数据库，自动水平扩展，强一致性分布式事务，部署简单，在线弹性扩容和异步表结构变更不影响业务，异地多活及自动故障恢复保障数据安全，兼容MySQL协议，迁移成本低，全球社区活跃、可选企业级技术服务，国内成功案例：北京银行、今日头条、海航集团、摩拜单车、饿了么、易果生鲜、去哪儿……等公司。 
