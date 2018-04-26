@@ -10,6 +10,9 @@
 * 5、完全开源，不能故意留一些核心组件不开源
 * 6、每种类别，尽量减少数量，减轻学习成本，节省选型时间
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
+</div>
 
 ### dnc开源ORM
 * dp = dapper 全球知名技术社区stackoverflow.com官方开源ORM项目，支撑全球海量用户高并发访问，解决EF/EFCore痛点，sql语句自主可控、超轻量级、高性能、经过大规模实战检验 https://github.com/StackExchange/Dapper
@@ -71,7 +74,7 @@ https://github.com/ontio
 https://github.com/JeffreySu/WeiXinMPSDK
 
 ### dnc开源Excel类库
-* EPPlus 支持dnc的开源Excel操作类库，代码优雅，高性能，易集成 
+* epp = EPPlus 支持dnc的开源Excel操作类库，代码优雅，高性能，易集成 
 https://github.com/JanKallman/EPPlus 
 https://www.nuget.org/packages/EPPlus
 
@@ -106,7 +109,7 @@ https://www.nuget.org/packages/RabbitMQ.Client
 https://github.com/rabbitmq/rabbitmq-dotnet-client
 
 ### dnc开源Kafka类库
-* Confluent.Kafka  https://confluent.io
+* cfk = Confluent.Kafka  https://confluent.io
 https://github.com/confluentinc/confluent-kafka-dotnet
 https://www.nuget.org/packages/Confluent.Kafka
 http://www.managershare.com/post/204362
@@ -115,7 +118,7 @@ http://www.managershare.com/post/204362
 https://github.com/ah-/rdkafka-dotnet
 
 ### dnc开源ElasticSearch类库
-* Elasticsearch.Net 是ES官方提供的底层类库
+* esn = Elasticsearch.Net 是ES官方提供的底层类库
 https://www.nuget.org/packages/Elasticsearch.Net/
 https://github.com/elastic/elasticsearch-net
 
@@ -133,6 +136,10 @@ https://github.com/vuejs/vue
 
 ### 开源可视化图表控件
 * echart 百度开源可视化图表控件 http://echarts.baidu.com
+
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
+</div>
 
 ### 开源社区
 * sto = stackoverflow.com 全球知名技术社区，基于C#开发  http://stackoverflow.com
