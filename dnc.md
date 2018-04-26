@@ -39,7 +39,7 @@ https://mysql-net.github.io/MySqlConnector
 * 视高盛景：国内Xamarin专业技术服务商 http://www.highviewsoft.com
 
 ### dnc开源客户端开发框架
-* winform、wpf
+* winform、wpf 适用场景：与硬件交互的客户端，例如二维码扫描器、读卡器、POS机……等
 
 * et = Electron 是Github官方开源的跨平台开发框架，基于JS/TS开发跨平台客户端，可运行在Windows、Mac、Linux
 https://electronjs.org
