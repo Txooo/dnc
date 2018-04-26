@@ -31,9 +31,7 @@ https://nuget.org/packages/MySqlConnector
 https://mysql-net.github.io/MySqlConnector
 
 ### dnc开源原生app开发框架Android、iOS
-* xa = xamarin 微软开源免费 原生app开发框架，支持Android、iOS，高性能、易学习、流畅的原生app体验 www.xamarin.com https://github.com/xamarin
-
-xamarin官方文档 https://docs.microsoft.com/zh-cn/xamarin
+* xa = xamarin 微软开源免费 原生app开发框架，支持Android、iOS，高性能、易学习、流畅的原生app体验 www.xamarin.com https://github.com/xamarin 官方文档 https://docs.microsoft.com/zh-cn/xamarin
 
 * 视高盛景：国内Xamarin专业技术服务商 http://www.highviewsoft.com
 
@@ -160,6 +158,12 @@ https://github.com/vuejs/vue
 * dnc开源社区QQ群：618093978
 * asky极简教程QQ群：546200985
 
-### 版权说明
+### 版权申明
+
 * dnc开源梦之队 由dnc开源社区 收集整理，欢迎转载，但必须保留来源链接：http://dncNew.com
+* 各项目开源协议与版权，请查看各项目官方Github或官网，尊重知识产权
+
+
+
+
 
