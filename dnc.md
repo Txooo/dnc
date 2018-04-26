@@ -39,7 +39,7 @@ https://mysql-net.github.io/MySqlConnector
 dnc项目可使用mc（MysqlConnector）连接Tidb数据库 https://pingcap.com 文档 https://pingcap.com/docs-cn  
 https://github.com/pingcap
 
-* pg = PostgreSql 业界领先、功能丰富的开源数据库 https://www.postgresql.org/
+* pg = PostgreSql 业界领先、功能丰富的开源数据库 https://www.postgresql.org
 
 * mdb = MariaDB 是MySql创始人在MySql被收购之后开发的开源数据库，兼容MySql，轻量级、高性能 http://mariadb.org
 
