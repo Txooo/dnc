@@ -116,7 +116,7 @@
 
 * https://github.com/dncNew/dncNew/issues/2
 
-### dnc开源梦之队2018
+### dnc开源梦之队2018 开源项目精选集
 
 * https://github.com/dncNew/dncNew/blob/master/dnc.md
 
