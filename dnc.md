@@ -160,7 +160,7 @@ https://github.com/vuejs/vue
 
 ### 版权申明
 
-* dnc开源梦之队 由dnc开源社区 收集整理，欢迎转载，但必须保留来源链接：http://dncNew.com
+* dnc开源梦之队 由 dnc开源社区 收集整理，欢迎转载，但必须保留来源链接：http://dncNew.com
 * 各项目开源协议与版权，请查看各项目官方Github或官网，尊重知识产权
 
 
