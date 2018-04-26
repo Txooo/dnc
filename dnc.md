@@ -137,10 +137,6 @@ https://github.com/vuejs/vue
 ### 开源可视化图表控件
 * echart 百度开源可视化图表控件 http://echarts.baidu.com
 
-<div align="left">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
-</div>
-
 ### 开源社区
 * sto = stackoverflow.com 全球知名技术社区，基于C#开发  http://stackoverflow.com
 * 首届dnc开源峰会 http://cnblogs.com/dncNew
