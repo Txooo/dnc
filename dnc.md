@@ -126,6 +126,14 @@ https://github.com/elastic/elasticsearch-net
 https://www.nuget.org/packages/NEST/
 https://github.com/elastic/elasticsearch-net
 
+### dnc开源WebAssembly浏览器原生跨平台
+
+* ooui 是dnc C# wasm解决方案，支持Xamarin.Forms，一次开发就可以跨平台，跨浏览器，桌面客户端、移动app安卓、iOS、Web App
+https://github.com/praeclarum/ooui 示例项目 http://ooui.mecha.parts
+
+* bz = blazor 微软开源wasm解决方案，一次开发就可以跨平台，跨浏览器
+https://github.com/aspnet/blazor
+
 ### 开源前端框架
 * vue 国内排名第一的前端开源框架，轻量级、1天入门 
 https://vuejs.org/
