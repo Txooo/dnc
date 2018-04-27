@@ -183,7 +183,7 @@ https://github.com/vuejs/vue
 * 微软开源sf微服务框架 5分钟入门教程 https://docs.microsoft.com/zh-cn/azure/service-fabric/
 * xamarin 官方文档 https://docs.microsoft.com/zh-cn/xamarin/
 * dnc Api查询 https://docs.microsoft.com/zh-cn/dotnet/api/
-* dnc微软研发团队内部第一手视频 https://live.asp.net
+* dnc微软研发团队内部视频公开 https://live.asp.net
 * dnc开发者Azure入门 中文 https://docs.microsoft.com/zh-cn/dotnet/azure/
 * dnc开发者Azure入门 英文 https://docs.microsoft.com/en-us/dotnet/azure/
 * dnc开源社区QQ群：618093978
