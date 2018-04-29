@@ -93,7 +93,7 @@
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
 * [facebook.com/dncNew](https://www.facebook.com/dncNew)
-* 开源峰会QQ群 618093978
+* 峰会现场直播QQ群 618093978
 
 ### dnc简介
 
