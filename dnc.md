@@ -71,20 +71,26 @@ https://github.com/AvaloniaUI/Avalonia
 
 ### dnc C#开源区块链
 
-* neo小蚁开源区块链，基于dnc C#开发主链
-https://github.com/neo-project
+* neo小蚁开源区块链，基于dnc C#开发主链，国内区块链市值排名第一，全球区块链市值排行榜 https://www.feixiaohao.com 
+https://github.com/neo-project   https://www.feixiaohao.com/currencies/neo/
 
 * NEL区块链智能经济实验室 dnc C#
 https://github.com/NewEconoLab
 
 * aelf开源区块链，基于dnc C#开发主链
-https://github.com/AElfProject/AElf
+https://github.com/AElfProject/AElf   https://www.feixiaohao.com/currencies/aelf/
 
 * aelf开源区块链，基于C++开发资产侧链
 https://github.com/AElfProject/aelf-asset-chain
 
 * ONT本体开源区块链，NEO开源区块链母公司分布科技的项目，基于Go开发主链，智能合约支持C#、Go、TS、JS、Java、Python等
-https://github.com/ontio
+https://github.com/ontio   https://www.feixiaohao.com/currencies/ont/
+
+* NBitcoin C#比特币BTC开源区块链 https://github.com/MetacoSA/NBitcoin
+
+* Nethereum C#以太坊ETH开源区块链 https://github.com/Nethereum/Nethereum
+
+* Stratis C#企业级开源区块链 https://github.com/stratisproject/StratisBitcoinFullNode   https://www.feixiaohao.com/currencies/stratis/
 
 ### dnc开源微信SDK
 * 盛派网络 Senparc.Weixin 微信dnc C# SDK
@@ -186,6 +192,7 @@ https://github.com/vuejs/vue
 * dnc微软研发团队内部视频公开 https://live.asp.net
 * dnc开发者Azure入门 中文 https://docs.microsoft.com/zh-cn/dotnet/azure/
 * dnc开发者Azure入门 英文 https://docs.microsoft.com/en-us/dotnet/azure/
+* C#各版本功能 https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-version-history
 * dnc开源社区QQ群：618093978
 * asky极简教程QQ群：546200985
 
