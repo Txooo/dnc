@@ -112,7 +112,11 @@
 
 * https://www.microsoft.com/net/customers
 
-### dnc招聘信息70多个公司
+### dnc国内公司案例大全，欢迎补充
+
+* https://github.com/dncNew/dncNew/issues/4
+
+### dnc招聘信息70多个公司，欢迎补充
 
 * https://github.com/dncNew/dncNew/issues/2
 
