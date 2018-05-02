@@ -158,7 +158,7 @@ https://github.com/praeclarum/ooui 示例项目 http://ooui.mecha.parts
 https://github.com/aspnet/blazor
 
 ### 开源前端框架
-* vue 国内排名第一的前端开源框架，轻量级、1天入门 
+* vue 知名前端开源框架，轻量级、1天入门 
 https://vuejs.org/
 https://github.com/vuejs/vue
 
