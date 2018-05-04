@@ -16,7 +16,7 @@
 
 ###  Step3：发完邮件后，请在QQ加群时的答案输入框填写：
 
-* gh/你的gh项目（即你的github项目网址，例如gh/dncNew/dncNew，用gh简称代替github.com防止QQ输入框字数不够）
+* gh/你的gh项目（即你的github网址，例如gh/dncNew/dncNew，用gh简称代替github.com防止QQ输入框字数不够）
 
 
 ###  开源社区
