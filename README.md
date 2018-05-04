@@ -126,4 +126,5 @@
 
 * https://github.com/dncNew/dncNew/blob/master/dnc.md
 
-
+* dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
