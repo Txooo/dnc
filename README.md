@@ -93,8 +93,8 @@
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
 * [facebook.com/dncNew](https://www.facebook.com/dncNew)
-* dnc开源峰会现场直播QQ群 618093978 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
-* dnc开源峰会现场直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源峰会直播QQ群 618093978 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * Asky开源架构QQ群 546200985 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 
