@@ -21,8 +21,9 @@
 
 ###  开源社区
 
-* dnc开源峰会现场直播QQ群 618093978
-* Asky开源架构QQ群 546200985
+* dnc开源峰会直播QQ群 618093978 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* Asky开源架构QQ群 546200985 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * 首届.NET Core开源峰会 http://dncNew.com
 * dnc国内公司案例大全，欢迎补充 https://github.com/dncNew/dncNew/issues/4
 * dnc招聘信息70多个公司，欢迎补充  https://github.com/dncNew/dncNew/issues/2
