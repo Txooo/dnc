@@ -116,11 +116,11 @@
 
 ### dnc国内公司案例大全，欢迎补充
 
-* https://github.com/dncNew/dncNew/issues/4
+* http://www.cnblogs.com/dncNew/p/dncList.html
 
 ### dnc招聘信息70多个公司，欢迎补充
 
-* https://github.com/dncNew/dncNew/issues/2
+* http://www.cnblogs.com/dncNew/p/dncjob.html
 
 ### dnc开源梦之队2018 开源项目精选集
 
