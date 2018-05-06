@@ -2,6 +2,8 @@
 
 * 加群的人越来越多，也有一些人想混进群里发广告等，为了更好的提升群品质，促进dnc生态发展
 * 更严格的身份验证，更高的社群品质，一起迎接dnc开源新时代，多谢理解，非常感谢~
+* 开源峰会微信群一共有几千人
+* 开源峰会QQ群之前有1000多人，因为是一个老群，里面有很多潜在的广告小号等，因此QQ群进行了一次重启，目前新QQ群 779699538 人数不多，需要严格验证
 
 ###  Step1：请点击本项目右上角Star按钮
 
@@ -79,11 +81,9 @@
 
 * dnc是微软新一代主力编程平台，开源、免费、跨平台、轻量级、高性能，支持Linux、Docker、k8s等环境，适合开发微服务、云原生、大型互联网应用、全开源解决方案
 
-* dnc国内公司案例
-微软、腾讯、网易、同程旅游、龙珠直播、ThoughtWorks、大疆创新无人机、新东方教育科技、中通快递、申通快递、青客白领公寓、途虎养车、博客园、视高盛景、如鹏网、行云创新、大连医卫、盛派网络、切尔思科技、斯诺物联、山海致远、neo.org开源区块链、aelf.io开源区块链、FeiXiaoHao.com国内知名区块链行情大数据平台、联众智慧科技、万企明道……等公司使用
+* dnc国内公司案例：微软、腾讯、网易、同程旅游、龙珠直播、ThoughtWorks、大疆创新无人机、新东方教育科技、中通快递、申通快递、青客白领公寓、途虎养车、博客园、视高盛景、如鹏网、行云创新、大连医卫、盛派网络、切尔思科技、斯诺物联、山海致远、neo.org开源区块链、aelf.io开源区块链、FeiXiaoHao.com国内知名区块链行情大数据平台、联众智慧科技、万企明道……等公司使用
 
-* dnc全球公司案例
-* 微软、bing.com搜索引擎、stackoverflow.com全球知名程序员社区、达美乐披萨、GoDaddy全球知名域名服务商、Jet.com知名电商、UPS、Raygun、AstroReality量子科技、VQ Communications、Age of Ascent Illyriad Games、National Instruments国家仪器、Alaska Airlines阿拉斯加航空……等公司使用
+* dnc全球公司案例：微软、bing.com搜索引擎、stackoverflow.com全球知名程序员社区、达美乐披萨、GoDaddy全球知名域名服务商、Jet.com知名电商、UPS、Raygun、AstroReality量子科技、VQ Communications、Age of Ascent Illyriad Games、National Instruments国家仪器、Alaska Airlines阿拉斯加航空……等公司使用
 
 * dnc更多公司案例 https://www.microsoft.com/net/customers
 * dnc国内公司案例大全，欢迎补充 http://www.cnblogs.com/dncNew/p/dncList.html
