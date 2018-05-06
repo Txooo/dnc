@@ -49,6 +49,7 @@
 * Anduin 北京切尔思科技架构师、兼任东北大学信息安全工程师和技术主播、《dnc + Angular 前后端分离PWA实战》
 * 杨志洪 DBAplus社群联合发起人，《Oracle核心技术》译者
 * 衣明志 烟台易云网络创始人
+* 徐磊 LEANSOFT CEO/首席架构师 微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
