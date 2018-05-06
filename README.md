@@ -20,8 +20,8 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师28人（按报名时间）
-* 有的讲师已报名、主题待定
+## 峰会讲师28人
+
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
 * 刘海峰 STB Chain Foundation主席，工信部MIC区块链专委会理事长，BDFund合伙人，区块链梦工场创始人
