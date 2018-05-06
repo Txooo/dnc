@@ -93,7 +93,7 @@
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
-* [facebook.com/dncNew](https://www.facebook.com/dncNew)
+* 开发运维一体化[DevOpsHub.cn](http://DevOpsHub.cn)
 * dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
