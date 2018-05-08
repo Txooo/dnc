@@ -14,6 +14,10 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
+### dnc开源人工智能
+
+* ML.NET 微软黑科技注入 .NET C#全面支持人工智能，AI编程领域开始C#、Py……百花齐放，就像武侠小说中，一个普通人突然得到绝世高手的几十年内力注入，招式还没学，一身内力有点方 https://blogs.msdn.microsoft.com/dotnet/2018/05/07/introducing-ml-net-cross-platform-proven-and-open-source-machine-learning-framework/  开源地址 https://github.com/dotnet/machinelearning
+
 ### dnc开源ORM
 * dp = dapper 全球知名技术社区stackoverflow.com官方开源ORM项目，支撑全球海量用户高并发访问，解决EF/EFCore痛点，sql语句自主可控、超轻量级、高性能、经过大规模实战检验 https://github.com/StackExchange/Dapper
 
