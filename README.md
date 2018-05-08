@@ -21,7 +21,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师28人（按讲师确认时间）
+## 峰会讲师29人（按讲师确认时间）
 
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -51,6 +51,7 @@
 * 杨志洪 DBAplus社群联合发起人，《Oracle核心技术》译者
 * 衣明志 烟台易云网络创始人
 * 徐磊 LEANSOFT CEO/首席架构师、微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
+* 陈超 微软亚太研发集团云计算与企业事业部PM，专注人工智能技术应用实战落地，曾获大连市研究生机器人大赛一等奖，担任亚太机器人大赛Robocup中国区总决赛裁判，编程之美大赛AI技术顾问、导师
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
