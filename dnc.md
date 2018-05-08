@@ -174,7 +174,7 @@ https://github.com/vuejs/vue
 
 ### 开源社区
 * sto = stackoverflow.com 全球知名技术社区，基于C#开发  http://stackoverflow.com
-* 首届dnc开源峰会 http://cnblogs.com/dncNew
+* 首届.NET Core开源峰会 http://dncNew.com
 * bxug 国内xamarin开源社区，每月举办技术活动，主题xamarin、dnc、azure等 http://www.highviewsoft.com
 * csharp工具包 http://www.csharpkit.com
 * 51aspx源码专家 http://www.51aspx.com
