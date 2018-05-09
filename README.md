@@ -96,7 +96,6 @@
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
 * DevOps研发运维一体化[DevOpsHub.cn](http://DevOpsHub.cn)
-* ML.NET C#全面支持人工智能 https://github.com/dotnet/machinelearning
 * dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
@@ -114,18 +113,8 @@
 
 * 微软、bing.com搜索引擎、stackoverflow.com全球知名程序员社区、达美乐披萨、GoDaddy全球知名域名服务商、Jet.com知名电商、UPS、Raygun、AstroReality量子科技、VQ Communications、Age of Ascent Illyriad Games、National Instruments国家仪器、Alaska Airlines阿拉斯加航空……等公司使用
 
-### dnc更多公司案例 
-
-* https://www.microsoft.com/net/customers
-
-### dnc国内公司案例大全，欢迎补充
-
-* http://www.cnblogs.com/dncNew/p/dncList.html
-
-### dnc招聘信息70多个公司，欢迎补充
-
-* http://www.cnblogs.com/dncNew/p/dncjob.html 
-
-### dnc开源梦之队2018 开源项目精选集
-
-* https://github.com/dncNew/dncNew/blob/master/dnc.md
+* dnc更多公司案例 https://www.microsoft.com/net/customers
+* dnc国内公司案例大全，欢迎补充 http://www.cnblogs.com/dncNew/p/dncList.html
+* dnc招聘信息70多个公司，欢迎补充 http://www.cnblogs.com/dncNew/p/dncjob.html 
+* dnc开源梦之队2018 开源项目精选集 https://github.com/dncNew/dncNew/blob/master/dnc.md
+* 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
