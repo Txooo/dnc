@@ -100,7 +100,7 @@
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 <div align="left">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" height="190"  >
+<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" height="390"  >
 </div>
 
 ### dnc简介
