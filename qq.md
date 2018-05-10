@@ -78,6 +78,10 @@
 * 徐磊 LEANSOFT CEO/首席架构师、微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
 * 陈超 微软亚太研发集团云计算与企业事业部PM，专注人工智能技术应用实战落地，曾获大连市研究生机器人大赛一等奖，担任亚太机器人大赛RoboCup中国区总决赛裁判，编程之美大赛AI技术顾问、导师
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" height="432" width="768" >
+</div>
+
 ### dnc简介
 
 * dnc = .NET Core、dotnet Core简称，方便快速输入、促进新技术流行，例如SF、ELK、k8s等简称对技术传播的助力
