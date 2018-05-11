@@ -4,7 +4,7 @@
 * 亮点：去中心化、社区驱动 开源峰会
 * 时间：2018年5月20日 周日
 * 地点：在线峰会、远程参与
-* 官网：[dncNew.com](http://dncNew.com) [aka.ms/dnc](https://aka.ms/dnc)
+* 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 形式：每个主题5分钟-15分钟闪电演讲
 
 ## 演讲方式
@@ -91,7 +91,7 @@
 * [aelf基金会](https://www.aelf.io)
 
 ### 峰会联盟节点
-* 峰会官网 [dncNew.com](http://dncNew.com) [aka.ms/dnc](https://aka.ms/dnc)
+* 峰会官网 [dncNew.com](http://dncNew.com) 或 [aka.ms/dnc](https://aka.ms/dnc)
 * 峰会视频官网 [bopoda](http://bxug.bopoda.com/p/event/NETConfChina2018)
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
