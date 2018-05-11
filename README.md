@@ -26,7 +26,7 @@
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
 * 刘海峰 STB Chain Foundation主席，工信部MIC区块链专委会理事长，BDFund合伙人，区块链梦工场创始人
-* 俞阳 青客高级研发经理
+* 俞阳 青客 .NET开发部总监、总架构师
 * 陈计节 ThoughtWorks 资深架构师《WPF应用基于dnc的跨平台重生》
 * 潘淳 中国Office开发者联盟发起人
 * Mike dnc开源社区CEO/CTO/VC联盟发起人
