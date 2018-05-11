@@ -20,6 +20,7 @@
 
 ### dnc开源ORM
 * dp = dapper 全球知名技术社区stackoverflow.com官方开源ORM项目，支撑全球海量用户高并发访问，解决EF/EFCore痛点，sql语句自主可控、超轻量级、高性能、经过大规模实战检验 https://github.com/StackExchange/Dapper
+* efc = [EntityFramework Core](https://docs.microsoft.com/en-us/ef/core/) 
 
 ### dnc开源Redis类库
 * ser = StackExchange.Redis 全球知名技术社区stackoverflow.com官方开源项目，支撑全球海量用户高并发访问，支持Redis Cluster集群
