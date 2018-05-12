@@ -93,7 +93,8 @@
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 峰会视频官网 [bopoda](http://bxug.bopoda.com/p/event/NETConfChina2018)
-* 峰会B站视频 [bilibili](https://live.bilibili.com/h5/1939273)
+* [峰会B站视频](https://live.bilibili.com/h5/1939273)
+* [峰会斗鱼视频](https://www.douyu.com/546689)
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
 * [twitter.com/dncNew](http://twitter.com/dncNew)
