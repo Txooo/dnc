@@ -199,6 +199,7 @@ https://github.com/vuejs/vue
 * dnc开发者Azure入门 英文 https://docs.microsoft.com/en-us/dotnet/azure/
 * C#各版本功能 https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-version-history
 * DevOps研发运维一体化[DevOpsHub.cn](http://DevOpsHub.cn)
+* 一起开源网 http://www.17ky.net
 * ML.NET C#全面支持人工智能 https://github.com/dotnet/machinelearning
 * dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
