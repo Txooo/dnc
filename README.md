@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师30人（按确认时间）
+## 峰会讲师31人（按确认时间）
 
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -52,6 +52,7 @@
 * 徐磊 LEANSOFT CEO/首席架构师、微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
 * 陈超 微软亚太研发集团云计算与企业事业部PM，专注人工智能技术应用实战落地，曾获大连市研究生机器人大赛一等奖，担任亚太机器人大赛RoboCup中国区总决赛裁判，编程之美大赛AI技术顾问、导师
 * 张昌伟 微软企业解决方案专家，Microsoft Tech Summit 2017讲师，擅长跨平台移动开发和混合现实开发《WindowsML带来的技术革新》
+* 邓太华 资深架构师，涉及旅游、金融、电商、政府等行业，欧洲某跨国企业集团中国分公司系统架构师，研发“云-端”计算的新一代企业信息化系统，博客园“深蓝医生”PDF.NET开源作者《iMSF框架—实时消息服务框架》
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
