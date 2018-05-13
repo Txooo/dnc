@@ -101,6 +101,8 @@
 * DevOps研发运维一体化[DevOpsHub.cn](http://DevOpsHub.cn)
 * dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源社区CEO/CTO/架构师/VC联盟微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* C#开源区块链微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" height="432" width="768" >
