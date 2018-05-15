@@ -2,13 +2,12 @@
 
 ### dnc开源项目选择标准
 
-* dnc = .NET Core、dotnet core
-* 1、支持dnc 2.x，Github star数量100以上，最近2月活跃更新
-* 2、轻量级、示例文档丰富、1天入门、QQ群/微信群技术支持
+* dnc = .NET Core、dotnet Core简称
+* 1、支持dnc 2.x，Github Star数量200以上，最近6个月活跃更新
+* 2、轻量级、示例文档丰富、1天入门、社群技术支持
 * 3、有生产环境成功案例
-* 4、微软官方开源 或者 dnc开源社区知名项目
-* 5、100%开源，不能故意留一两个组件不开源
-* 6、每种类别，尽量减少数量，减轻学习成本，节省选型时间
+* 4、微软官方开源或者.NET Core社区开源项目
+* 5、100%开源，不能故意留某些组件不开源
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
