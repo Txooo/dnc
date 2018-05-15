@@ -86,9 +86,11 @@
 * [dnc开源社区CTO联盟](http://dncNew.com)
 * [aelf基金会](https://www.aelf.io)
 * [视高盛景](http://www.highviewsoft.com)
+* [STB Chain基金会](https://www.soft2b.com)
 
 ### 峰会赞助商
 * [aelf基金会](https://www.aelf.io)
+* [STB Chain基金会](https://www.soft2b.com)
 
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
