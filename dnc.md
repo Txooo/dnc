@@ -173,7 +173,7 @@ https://github.com/vuejs/vue
 * echart 百度开源可视化图表控件 http://echarts.baidu.com
 
 ### 开源社区
-* sto = stackoverflow.com 全球知名技术社区，基于C#开发  http://stackoverflow.com
+* sto = stackoverflow.com 全球知名技术社区，基于C#开发 http://stackoverflow.com
 * 首届.NET Core开源峰会 http://dncNew.com
 * bxug 国内xamarin开源社区，每月举办技术活动，主题xamarin、dnc、azure等 http://www.highviewsoft.com
 * csharp工具包 http://www.csharpkit.com
@@ -197,11 +197,16 @@ https://github.com/vuejs/vue
 * dnc开发者Azure入门 中文 https://docs.microsoft.com/zh-cn/dotnet/azure/
 * dnc开发者Azure入门 英文 https://docs.microsoft.com/en-us/dotnet/azure/
 * C#各版本功能 https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-version-history
-* DevOps研发运维一体化[DevOpsHub.cn](http://DevOpsHub.cn)
 * 一起开源网 http://www.17ky.net
 * ML.NET C#全面支持人工智能 https://github.com/dotnet/machinelearning
+* DevOps研发运维一体化 http://DevOpsHub.cn
+* 微课帮 https://weikebang.com
+* aelf开源区块链 https://www.aelf.io
+* STB Chain开源区块链 https://www.soft2b.com
 * dnc开源峰会直播QQ群 779699538 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * dnc开源峰会直播微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* dnc开源社区CEO/CTO/架构师/VC联盟微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* C#开源区块链微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 ### 版权申明
 
