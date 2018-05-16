@@ -20,7 +20,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师31人（按确认时间）
+## 峰会讲师32人（按确认时间）
 
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -29,30 +29,31 @@
 * 陈计节 ThoughtWorks 资深架构师《WPF应用基于dnc的跨平台重生》
 * 潘淳 中国Office开发者联盟发起人
 * Mike dnc开源社区CEO/CTO/VC联盟发起人
+* Lex Li 摩根士丹利 蒙特利尔研发中心 资深工程师，播客主播，著有《.NET传奇》等书，业余时间活跃于微软技术的开源项目和StackOverlow.com等在线社区
+* Christina Liang 微软全球MVP项目大中华区负责人
+* Anduin 北京切尔思科技架构师、兼任东北大学信息安全工程师和技术主播、《dnc + Angular 前后端分离PWA实战》
 * 苏震巍 盛派网络创始人，首席架构师
 * 鲍东海 全球区块链大数据创始人兼CTO、前微软官方成功案例首席构架师
 * 杨中科 如鹏网创始人、IT在线教育专家
-* Lex Li 摩根士丹利
 * 张善友 腾讯资深工程师 NanoFabric
 * 白海石 微软美国 资深技术专家 Service Fabric、virtual-kubelet
 * 刘圣波 北京林业大学工学院教师 研究工业控制方向的.net应用 《.net开源跨平台工业组态软件RapidScada》
 * 李争《微软互联网信息服务IIS最佳实践》作者《dnc在Linux下调试》
 * 刘腾飞 原“生意专家”电商平台技术总监，现自己创业，知名视频教程作者《dnc 微服务 on k8s》
 * 刘永新 NEO中国开发者社区NEL创始人、NEO域名服务NNS创始人
-* Christina Liang 微软全球MVP项目大中华区负责人
 * 管震 微软中国首席技术顾问、《云，就该这么玩》作者
 * 卢建晖 Xamarin最有价值专家、人工智能AR/VR/MR教育行业应用《移动DevOps》《Xamarin与Azure Cognitive Service》
 * 马洪喜 深圳行云创新科技有限公司CTO， 聚焦于微服务架构支撑平台的研发，为包括华为等大型企业提供.NET Core、.NET微服务咨询和平台支撑服务
 * 桂素伟 大连医卫技术总监、.NET Core布道师、《dnc微服务架构》
 * 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
 * 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者、《Office 365 开发的开源平台支持》
-* Anduin 北京切尔思科技架构师、兼任东北大学信息安全工程师和技术主播、《dnc + Angular 前后端分离PWA实战》
 * 杨志洪 DBAplus社群联合发起人，《Oracle核心技术》译者
 * 衣明志 烟台易云网络创始人
 * 徐磊 LEANSOFT CEO/首席架构师、微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
 * 陈超 微软亚太研发集团云计算与企业事业部PM，专注人工智能技术应用实战落地，曾获大连市研究生机器人大赛一等奖，担任亚太机器人大赛RoboCup中国区总决赛裁判，编程之美大赛AI技术顾问、导师
 * 张昌伟 微软企业解决方案专家，Microsoft Tech Summit 2017讲师，擅长跨平台移动开发和混合现实开发《WindowsML带来的技术革新》
 * 邓太华 资深架构师，涉及旅游、金融、电商、政府等行业，欧洲某跨国企业集团中国分公司系统架构师，研发“云-端”计算的新一代企业信息化系统，博客园“深蓝医生”PDF.NET开源作者《iMSF框架—实时消息服务框架》
+* 戎朋 aelf开源区块链技术VP，具有十年以上的互联网研发及管理经验，曾任阿博茨科技技术负责人，负责中国首个基于区块链的互助平台同心互助，在数据挖掘、数据可视化领域有丰富经验，曾任海豚浏览器服务端研发主管
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
