@@ -11,13 +11,13 @@
 * 正在确认演讲细节，可能微调
 * 周六更新详细演讲主题列表
 * 峰会时间：2018年5月20日 周日
-* 09:30 - 10:00 峰会预热、合作伙伴及赞助商宣传片 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
-* 10:00 - 11:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 09:30 - 10:00 峰会预热、合作伙伴及赞助商宣传片 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 10:00 - 11:00 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
 * 11:10 - 11:30 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
-* 14:00 - 15:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 14:00 - 15:00 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
 * 15:10 - 15:30 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
-* 15:30 - 17:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
-* 19:30 - 20:30 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 15:30 - 17:00 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 19:30 - 20:30 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
 * 20:40 - 21:00 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * 21:00 - 21:30 听众、讲师互动交流 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * 21:30 - 21:50 开源峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
