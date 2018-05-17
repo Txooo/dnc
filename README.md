@@ -6,6 +6,22 @@
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 形式：每个主题5分钟-15分钟闪电演讲
 
+## 峰会节目单
+
+* 正在确认演讲细节，可能微调
+* 周六更新详细演讲主题列表
+* 峰会时间：2018年5月20日 周日
+* 09:30 - 10:00 峰会预热、合作伙伴及赞助商宣传片 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 10:00 - 11:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 11:10 - 11:30 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 14:00 - 15:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 15:10 - 15:30 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 15:30 - 17:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 19:30 - 20:30 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 20:40 - 21:00 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 21:00 - 21:30 听众、讲师互动交流 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 21:30 - 21:50 开源峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+
 ## 演讲方式
 * 任选一种：PPT录屏视频/PPT/图文
 * 在联盟节点视频平台、微信群、QQ群进行
@@ -54,10 +70,6 @@
 * 张昌伟 微软企业解决方案专家，Microsoft Tech Summit 2017讲师，擅长跨平台移动开发和混合现实开发《WindowsML带来的技术革新》
 * 邓太华 资深架构师，涉及旅游、金融、电商、政府等行业，欧洲某跨国企业集团中国分公司系统架构师，研发“云-端”计算的新一代企业信息化系统，博客园“深蓝医生”PDF.NET开源作者《iMSF框架—实时消息服务框架》
 * 戎朋 aelf开源区块链技术VP，具有十年以上的互联网研发及管理经验，曾任阿博茨科技技术负责人，负责中国首个基于区块链的互助平台同心互助，在数据挖掘、数据可视化领域有丰富经验，曾任海豚浏览器服务端研发主管
-
-<div align="left">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/ms.jpg" height="200"  >
-</div>
 
 ## 继续征集讲师中，欢迎报名
 
