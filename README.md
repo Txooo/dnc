@@ -21,6 +21,7 @@
 * 20:40 - 21:00 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * 21:00 - 21:30 听众、讲师互动交流 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * 21:30 - 21:50 开源峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* [峰会.ics日历](https://github.com/dncNew/dncNew/blob/master/dncNew.com.ics)，右键另存为，电脑上双击可导入outlook
 
 ## 演讲方式
 * 任选一种：PPT录屏视频/PPT/图文
