@@ -37,7 +37,7 @@
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师32人（按确认时间）
+## 峰会讲师31人（按确认时间）
 
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
@@ -56,7 +56,6 @@
 * 白海石 微软美国 资深技术专家 Service Fabric、virtual-kubelet
 * 刘圣波 北京林业大学工学院教师 研究工业控制方向的.net应用 《.net开源跨平台工业组态软件RapidScada》
 * 李争《微软互联网信息服务IIS最佳实践》作者《dnc在Linux下调试》
-* 刘腾飞 原“生意专家”电商平台技术总监，现自己创业，知名视频教程作者《dnc 微服务 on k8s》
 * 刘永新 NEO中国开发者社区NEL创始人、NEO域名服务NNS创始人
 * 管震 微软中国首席技术顾问、《云，就该这么玩》作者
 * 卢建晖 Xamarin最有价值专家、人工智能AR/VR/MR教育行业应用《移动DevOps》《Xamarin与Azure Cognitive Service》
