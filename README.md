@@ -61,7 +61,7 @@
 
 * 21:30 - 22:00 听众、讲师互动、开源峰会未来规划建议与讨论 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
-* 22:00 首届开源峰会胜利闭幕《难忘今宵》
+* 22:00 首届开源峰会胜利闭幕《难忘今宵》 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 
 ## 演讲方式
