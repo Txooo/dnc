@@ -42,7 +42,7 @@
 * 卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM
 * 桂素伟_基于.NET Core微服务
 
-* 19:00 - 20:30 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
+* 19:00 - 21:00 峰会演讲 视频平台 [视高](http://bxug.bopoda.com/p/event/NETConfChina2018) [B站](http://live.bilibili.com/10404109) [虎牙](https://www.huya.com/15526466) [twitch](https://www.twitch.tv/anduin2019/)
 
 * 吴树波_工作型PPT颜值速效改进方案
 * 张昌伟_基于WindowsML构建人工智能创新应用
@@ -52,12 +52,16 @@
 * 陈超_机器学习与新一代认知智能，有用又有趣的平民化AI
 * 李争_.NET Core 跨平台应用程序调试
 * 刘圣波_.NET开源跨平台工业组态软件RapidScada实战
+* 刘海峰_STB Chain基于区块链的软件版权保护和交易平台
+* 卿毅_区块链应用与基于Azure的实践
+* 潘淳_
+* 周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望
 
-* 20:40 - 21:00 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 21:10 - 21:20 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
-* 21:00 - 21:30 听众、讲师互动交流 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 21:20 - 21:50 听众、讲师互动交流 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
-* 21:30 - 21:50 开源峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* 21:50 - 22:00 开源峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 * [峰会.ics日历](https://github.com/dncNew/dncNew/blob/master/dncNew.com.ics)，右键另存为，电脑上双击可导入outlook
 
 ## 演讲方式
