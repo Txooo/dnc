@@ -54,7 +54,7 @@
 * 刘圣波_.NET开源跨平台工业组态软件RapidScada实战
 * 刘海峰_STB Chain基于区块链的软件版权保护和交易平台
 * 卿毅_区块链应用与基于Azure的实践
-* 潘淳_
+* 潘淳_EXCEL 开发简史
 * 周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望
 
 * 21:10 - 21:20 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
