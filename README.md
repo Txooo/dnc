@@ -187,6 +187,7 @@
 
 ### dnc资源精选
 
+* 腾讯基于.NET Core重构资金清算网关 https://www.bilibili.com/video/av16373246
 * 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
 
 * Build2018视频 .NET Core Overview & Roadmap https://www.bilibili.com/video/av23403753   
