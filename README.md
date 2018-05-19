@@ -184,6 +184,18 @@
 
 * dnc更多公司案例 https://www.microsoft.com/net/customers
 * dnc国内公司案例大全，欢迎补充 http://www.cnblogs.com/dncNew/p/dncList.html
+
+### dnc资源精选
+
+* 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
+
+* Build2018视频 .NET Core Overview & Roadmap https://www.bilibili.com/video/av23403753   
+* Build2018视频 An Introduction to Blockchain with Mark Russinovich https://channel9.msdn.com/Events/Build/2018/BRK2507
+* Build2018视频 Azure Blockchain – Create and deploy multi-party applications with Workbench  https://channel9.msdn.com/Events/Build/2018/BRK2104
+* Build2018视频 微软开源微服务Service Fabric: The road ahead for microservices https://channel9.msdn.com/Events/Build/2018/BRK2111
+* Build2018视频 Introducing ML.NET C#开发人工智能 https://channel9.msdn.com/Events/Build/2018/BRK3203
+* Build2018视频 Vision Keynote: Intelligent Cloud and Intelligent Edge https://channel9.msdn.com/Events/Build/2018/KEY01
+
 * dnc招聘信息70多个公司，欢迎补充 http://www.cnblogs.com/dncNew/p/dncjob.html 
 * dnc开源梦之队2018 开源项目精选集 https://github.com/dncNew/dncNew/blob/master/dnc.md
-* 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
+
