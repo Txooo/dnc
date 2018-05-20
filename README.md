@@ -56,8 +56,8 @@
 
 * ### 19:00 - 21:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* 刘圣波_.NET开源跨平台工业组态软件RapidScada实战【19:00开始直播】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
-* 刘海峰_STB Chain基于区块链的软件版权保护和交易平台
+* [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](https://share.weiyun.com/5prnOmC)
+* 刘海峰_STB Chain基于区块链的软件版权保护和交易平台【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
 * 卿毅_区块链应用与基于Azure的实践
 * 潘淳_EXCEL 开发简史
 * 周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望
