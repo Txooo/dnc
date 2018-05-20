@@ -60,7 +60,7 @@
 * [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](https://share.weiyun.com/5dOzpXM)
 * [卿毅_区块链应用与基于Azure的实践](https://share.weiyun.com/5TxubO3)
 * [潘淳_EXCEL 开发简史](https://share.weiyun.com/56pehX5)
-* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://share.weiyun.com/5w7fQ8k)【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
+* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://share.weiyun.com/5w7fQ8k)
 
 * ### 21:10 - 21:30 抽奖环节 [抽奖规则一步搞定](https://github.com/dncNew/dncNew/blob/master/gift.md) 
 
