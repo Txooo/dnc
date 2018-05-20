@@ -6,7 +6,7 @@
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 形式：每个主题5分钟-15分钟闪电演讲
 
-# 正在视频直播： [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
+## 正在视频直播： [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
 
 ## 峰会节目单
 
