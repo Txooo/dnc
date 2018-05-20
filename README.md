@@ -8,6 +8,10 @@
 
 ## 正在视频直播： [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift1.png" height="450">   
+</div>
+
 ## 峰会节目单
 
 * 根据演讲细节，时间安排可能微调
