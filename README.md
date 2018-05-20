@@ -6,7 +6,9 @@
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 形式：每个主题5分钟-15分钟闪电演讲
 
-## 正在视频直播： [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
+## 视频直播胜利收工，下届峰会再相聚： [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
+
+## 本届开源峰会全部27场演讲已全部提供视频回放，请点击下面的演讲主题查看
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/gift1.png" width="100%">   
