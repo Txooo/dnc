@@ -14,7 +14,6 @@
 
 ## 峰会节目单
 
-* 根据演讲细节，时间安排可能微调
 * 峰会时间：2018年5月20日 周日
 
 * ### 09:00 - 10:00 峰会预热、合作伙伴及赞助商宣传片 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
@@ -169,7 +168,7 @@
 * C#开源区块链微信群 [申请加入群的步骤](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 <div align="left">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" height="432" width="768" >
+<img src="https://github.com/dncNew/dncNew/raw/master/img/dnc7.png" width="100%">
 </div>
 
 ### dnc简介
