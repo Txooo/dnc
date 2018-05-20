@@ -154,8 +154,8 @@
 * [STB Chain基金会](https://www.soft2b.com)
 
 <div align="left">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/gift2.png" width="53%">   
-<img src="https://github.com/dncNew/dncNew/raw/master/img/gift3.png" width="53%">   
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift2.jpg" width="57%">   
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift3.jpg" width="57%">   
 </div>
 
 ### 峰会联盟节点
