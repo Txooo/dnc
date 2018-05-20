@@ -8,7 +8,7 @@
 
 ## 本届峰会胜利闭幕，下届再相聚 [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
 
-## 本届峰会全部27场演讲已全部提供视频回放，请点击演讲主题查看
+## 本届峰会全部27场演讲已提供视频回放，请点击演讲主题查看
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/gift1.png" width="100%">   
