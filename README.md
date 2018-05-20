@@ -153,6 +153,11 @@
 * [aelf基金会](https://www.aelf.io)
 * [STB Chain基金会](https://www.soft2b.com)
 
+<div align="left">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift2.png" width="53%">   
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift3.png" width="53%">   
+</div>
+
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * [峰会B站视频](http://live.bilibili.com/10404109)
