@@ -33,22 +33,22 @@
 * [戎朋_aelf开源区块链dnc C#](https://share.weiyun.com/5c7sUvM)
 * [刘永新_NNS如何提升NEO易用性](https://share.weiyun.com/5u7PMdj)
 * [杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好](https://share.weiyun.com/53NQHOc)
-* 卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
-* 桂素伟_基于.NET Core微服务
+* [卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM](https://share.weiyun.com/5ZGsmuw)
+* [桂素伟_基于.NET Core微服务](https://share.weiyun.com/59BGeMX)
 
 
-* ### 16:00 - 16:15 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* ### 16:00 - 16:15 抽奖环节 [抽奖规则一步搞定](https://github.com/dncNew/dncNew/blob/master/gift.md) 
 
 
 * ### 16:15 - 18:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* 吴树波_工作型PPT颜值速效改进方案
-* 张昌伟_基于WindowsML构建人工智能创新应用
-* 衣明志_ASP.NET MVC之外的选择Nancy开发框架
-* 马洪喜_.NET Core微服务实战经验分享
-* Anduin_.NET Core+Angular构建PWA应用实战
-* 陈超_机器学习与新一代认知智能，有用又有趣的平民化AI
-* 李争_.NET Core 跨平台应用程序调试
+* [吴树波_工作型PPT颜值速效改进方案](https://share.weiyun.com/5gJ3kYH)
+* [张昌伟_基于WindowsML构建人工智能创新应用](https://share.weiyun.com/5ZsJ4a8)
+* [衣明志_ASP.NET MVC之外的选择Nancy开发框架](https://share.weiyun.com/5kODOyH)
+* [马洪喜_.NET Core微服务实战经验分享](https://share.weiyun.com/5Y8I8xP)
+* [Anduin_.NET Core+Angular构建PWA应用实战](https://share.weiyun.com/5xAE3Yi)
+* [陈超_机器学习与新一代认知智能，有用又有趣的平民化AI](https://share.weiyun.com/50k2cOp)
+* 李争_.NET Core 跨平台应用程序调试【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
 
 
 * ### 19:00 - 21:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
@@ -59,7 +59,7 @@
 * 潘淳_EXCEL 开发简史
 * 周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望
 
-* ### 21:10 - 21:30 抽奖环节 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* ### 21:10 - 21:30 抽奖环节 [抽奖规则一步搞定](https://github.com/dncNew/dncNew/blob/master/gift.md) 
 
 * ### 21:30 - 22:00 听众、讲师互动、开源峰会未来规划建议与讨论 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
