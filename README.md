@@ -22,8 +22,8 @@
 * [陈计节_WPF应用基于dnc的跨平台重生](https://share.weiyun.com/5Xx96sc)
 * [张善友_微服务NanoFabric](https://share.weiyun.com/5I7rYJT)
 * [Christina Liang_微软MVP奖励计划介绍](https://share.weiyun.com/57qFFDm)
-* 苏震巍_使用.NET Core快速开发微信公众号和小程序【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
-* 陈希章_Office 365拥抱开源
+* [苏震巍_使用.NET Core快速开发微信公众号和小程序](https://share.weiyun.com/5gzTFOJ)
+* 陈希章_Office 365拥抱开源【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
 
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
