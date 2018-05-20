@@ -7,8 +7,8 @@
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/gift1.png" height="150">   
-<img src="https://github.com/dncNew/dncNew/raw/master/img/gift2.png" height="150">
-<img src="https://github.com/dncNew/dncNew/raw/master/img/gift3.png" height="150">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift2.jpg" height="150">
+<img src="https://github.com/dncNew/dncNew/raw/master/img/gift3.jpg" height="150">
 </div>
 
 
