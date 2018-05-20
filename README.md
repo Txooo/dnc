@@ -27,8 +27,8 @@
 
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
-* Lex Li_IIS故障诊断利器JexusManager【14:00开始直播】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
-* 邓太华_iMSF实时消息服务框架
+* [Lex Li_IIS故障诊断利器JexusManager](https://share.weiyun.com/50QU7Hn)
+* 邓太华_iMSF实时消息服务框架【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
 * 管震_AzureSphere微软物联网开源Linux发行版
 * 戎朋_aelf开源区块链dnc C#
 * 刘永新_NNS如何提升NEO易用性
