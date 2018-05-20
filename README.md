@@ -18,8 +18,8 @@
 * ### 10:00 - 11:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) [twitch](https://www.twitch.tv/anduin2019/)
 
 * [Mike_集齐C#七龙珠，迎接dnc开源新生态](https://share.weiyun.com/55xepPV)
-* 朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台【正在直播】[B站](http://live.bilibili.com/10404109) [twitch](https://www.twitch.tv/anduin2019/)
-* 陈计节_WPF应用基于dnc的跨平台重生
+* [朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台](https://share.weiyun.com/5oA8Lpn)
+* 陈计节_WPF应用基于dnc的跨平台重生【正在直播】[B站](http://live.bilibili.com/10404109) [twitch](https://www.twitch.tv/anduin2019/)
 * 张善友_微服务NanoFabric
 * Christina Liang_微软MVP奖励计划介绍
 * 苏震巍_使用.NET Core快速开发微信公众号和小程序
