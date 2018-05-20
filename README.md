@@ -28,10 +28,10 @@
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
 * [Lex Li_IIS故障诊断利器JexusManager](https://share.weiyun.com/50QU7Hn)
-* 邓太华_iMSF实时消息服务框架【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
-* 管震_AzureSphere微软物联网开源Linux发行版
-* 戎朋_aelf开源区块链dnc C#
-* 刘永新_NNS如何提升NEO易用性
+* [邓太华_iMSF实时消息服务框架](https://share.weiyun.com/5oXf51u)
+* [管震_AzureSphere微软物联网开源Linux发行版](https://share.weiyun.com/52SKoC2)
+* [戎朋_aelf开源区块链dnc C#](https://share.weiyun.com/5c7sUvM)
+* 刘永新_NNS如何提升NEO易用性【正在直播中】[B站](http://live.bilibili.com/10404109) | [twitch](https://www.twitch.tv/anduin2019/)
 * 杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好
 * 卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM
 * 桂素伟_基于.NET Core微服务
