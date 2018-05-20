@@ -62,11 +62,9 @@
 * [潘淳_EXCEL 开发简史](https://share.weiyun.com/56pehX5)
 * [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://share.weiyun.com/5w7fQ8k)
 
-* ### 21:10 - 21:30 抽奖环节 [抽奖规则一步搞定](https://github.com/dncNew/dncNew/blob/master/gift.md) 
+* ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众、讲师互动、开源峰会未来规划建议与讨论 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
-* ### 21:30 - 22:00 听众、讲师互动、开源峰会未来规划建议与讨论 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
-
-* ### 22:00 首届开源峰会胜利闭幕《难忘今宵》 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* ### 21:30 首届开源峰会胜利闭幕 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 
 ## 演讲方式
