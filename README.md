@@ -194,6 +194,7 @@
 
 ### dnc资源精选
 
+* 微软准备一年培养10万AI人才，推出12门免费人工智能课程 https://mp.weixin.qq.com/s/j4xmk3IyykC0juoaQNKeRQ
 * aelf开源区块链，基于dnc C#开发 https://grid.hoopox.com/aelf%20presentation-CN.pdf
 * 腾讯基于.NET Core重构资金清算网关 https://www.bilibili.com/video/av16373246
 * 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
