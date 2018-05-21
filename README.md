@@ -194,6 +194,7 @@
 
 ### dnc资源精选
 
+* aelf开源区块链，基于dnc C#开发 https://grid.hoopox.com/aelf%20presentation-CN.pdf
 * 腾讯基于.NET Core重构资金清算网关 https://www.bilibili.com/video/av16373246
 * 微软开源ML.NET C#人工智能开发框架 https://github.com/dotnet/machinelearning
 
