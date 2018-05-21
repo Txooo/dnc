@@ -20,5 +20,7 @@
 
 * 加QQ群的步骤：https://github.com/dncNew/dncNew/blob/master/qq.md
 
+* 发截图参与抽奖的截止时间2018年5月21日17:00，领奖时间本周内，请关注QQ群里领奖流程
+
 
 
