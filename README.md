@@ -64,7 +64,7 @@
 * [潘淳_EXCEL 开发简史](https://share.weiyun.com/56pehX5)
 * [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://share.weiyun.com/5w7fQ8k)
 
-* ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众、讲师互动、开源峰会未来规划建议与讨论 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
+* ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众讲师互动、峰会未来规划 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
 * ### 21:30 首届开源峰会胜利闭幕 [峰会QQ群/微信群](https://github.com/dncNew/dncNew/blob/master/qq.md) 
 
@@ -122,12 +122,8 @@
 
 ### 讲师报名方式
 * 1、请看 [讲师报名方式](https://github.com/dncNew/dncNew/blob/master/dncSpeaker.md)
-* 2、演讲材料PPT、可选项（demo代码、图文/视频/音频）后续补充
-* 3、材料准备好后，峰会之前先提前彩排
-* 4、每个主题5分钟-15分钟闪电演讲，复杂主题可拆分成多场演讲，每个讲师可演讲一场或多场
-* 5、任选一种或多种方式：PPT演示/视频/音频/图文
-* 6、讲师PPT最后一页，可放自己或公司的产品项目、二维码、网址等宣传信息
-* 7、考虑到讲师的时间安排，峰会当天讲师如果临时有事，可由峰会筹委会根据 提前彩排的PPT/视频/音频等资料进行录播分享，全自动演讲，让讲师更轻松
+* 2、每个主题5分钟-15分钟闪电演讲
+* 3、有声ppt/录屏视频（有制作教程和PPT模板）
 
 ### 听众报名方式
 * 听众无需报名，在联盟节点 视频平台、QQ群、微信群…观看
