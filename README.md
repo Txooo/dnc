@@ -4,7 +4,7 @@
 * 地点：在线峰会、远程参与
 * 形式：每个主题10分钟-20分钟闪电演讲
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
-* 讲师：正在邀请峰会讲师 [欢迎讲师参与演讲](https://github.com/dncNew/dncNew/blob/master/dncSpeaker.md)
+* 讲师：正在邀请峰会讲师 [欢迎讲师来演讲](https://github.com/dncNew/dncNew/blob/master/dncSpeaker.md)
 
 # 首届.NET Core开源峰会
 * 亮点：去中心化、社区驱动 开源峰会
