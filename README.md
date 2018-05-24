@@ -157,6 +157,7 @@
 ### 峰会联盟节点
 * 峰会官网 [dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * [峰会B站视频](http://live.bilibili.com/10404109)
+* [峰会bopoda视频](http://bxug.bopoda.com/p/event/NETConfChina2018)
 * [峰会twitch视频](https://www.twitch.tv/anduin2019/)
 * [github.com/dncNew](http://github.com/dncNew)
 * [cnblogs.com/dncNew](http://cnblogs.com/dncNew)
