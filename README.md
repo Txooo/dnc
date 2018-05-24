@@ -68,7 +68,7 @@
 * [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](https://www.bilibili.com/video/av23713444/?p=13) [B站](https://www.bilibili.com/video/av23713444/?p=13) [腾讯](https://share.weiyun.com/5prnOmC)
 * [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](https://www.bilibili.com/video/av23713444/?p=14) [B站](https://www.bilibili.com/video/av23713444/?p=14) [腾讯](https://share.weiyun.com/5dOzpXM)
 * [卿毅_区块链应用与基于Azure的实践](https://www.bilibili.com/video/av23713444/?p=15) [B站](https://www.bilibili.com/video/av23713444/?p=15) [腾讯](https://share.weiyun.com/5TxubO3)
-* [潘淳_EXCEL 开发简史](https://www.bilibili.com/video/av23713444/?p=16) [B站](https://www.bilibili.com/video/av23713444/?p=16) [腾讯](https://share.weiyun.com/56pehX5)
+* [潘淳_EXCEL 开发简史之风云再起](https://www.bilibili.com/video/av23713444/?p=16) [B站](https://www.bilibili.com/video/av23713444/?p=16) [腾讯](https://share.weiyun.com/56pehX5)
 * [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://www.bilibili.com/video/av23713444/?p=17) [B站](https://www.bilibili.com/video/av23713444/?p=17) [腾讯](https://share.weiyun.com/5w7fQ8k)
 
 * ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众讲师互动、峰会未来规划 
