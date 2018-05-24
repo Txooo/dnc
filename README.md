@@ -39,14 +39,14 @@
 
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
-* [Lex Li_IIS故障诊断利器JexusManager](https://share.weiyun.com/50QU7Hn)
-* [邓太华_iMSF实时消息服务框架](https://share.weiyun.com/5oXf51u)
-* [管震_AzureSphere微软物联网开源Linux发行版](https://share.weiyun.com/52SKoC2)
-* [戎朋_aelf开源区块链dnc C#](https://share.weiyun.com/5c7sUvM)
-* [刘永新_NNS如何提升NEO易用性](https://share.weiyun.com/5u7PMdj)
-* [杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好](https://share.weiyun.com/53NQHOc)
-* [卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM](https://share.weiyun.com/5ZGsmuw)
-* [桂素伟_基于.NET Core微服务](https://share.weiyun.com/59BGeMX)
+* [Lex Li_IIS故障诊断利器JexusManager](https://www.bilibili.com/video/av23690957/?p=9) [B站](https://www.bilibili.com/video/av23690957/?p=9) [腾讯](https://share.weiyun.com/50QU7Hn)
+* [邓太华_iMSF实时消息服务框架](https://www.bilibili.com/video/av23690957/?p=10) [B站](https://www.bilibili.com/video/av23690957/?p=10) [腾讯](https://share.weiyun.com/5oXf51u)
+* [管震_AzureSphere微软物联网开源Linux发行版](https://www.bilibili.com/video/av23690957/?p=11) [B站](https://www.bilibili.com/video/av23690957/?p=11) [腾讯](https://share.weiyun.com/52SKoC2)
+* [戎朋_aelf开源区块链dnc C#](https://www.bilibili.com/video/av23713444/?p=1) [B站](https://www.bilibili.com/video/av23713444/?p=1) [腾讯](https://share.weiyun.com/5c7sUvM)
+* [刘永新_NNS如何提升NEO易用性](https://www.bilibili.com/video/av23713444/?p=2) [B站](https://www.bilibili.com/video/av23713444/?p=2) [腾讯](https://share.weiyun.com/5u7PMdj)
+* [杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好](https://www.bilibili.com/video/av23713444/?p=3) [B站](https://www.bilibili.com/video/av23713444/?p=3) [腾讯](https://share.weiyun.com/53NQHOc)
+* [卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM](https://www.bilibili.com/video/av23713444/?p=4) [B站](https://www.bilibili.com/video/av23713444/?p=4) [腾讯](https://share.weiyun.com/5ZGsmuw)
+* [桂素伟_基于.NET Core微服务](https://www.bilibili.com/video/av23713444/?p=5) [B站](https://www.bilibili.com/video/av23713444/?p=5) [腾讯](https://share.weiyun.com/59BGeMX)
 
 
 * ### 16:00 - 16:15 抽奖环节 [抽奖规则](https://github.com/dncNew/dncNew/blob/master/gift.md) 
@@ -54,22 +54,22 @@
 
 * ### 16:15 - 18:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [吴树波_工作型PPT颜值速效改进方案](https://share.weiyun.com/5gJ3kYH)
-* [张昌伟_基于WindowsML构建人工智能创新应用](https://share.weiyun.com/5ZsJ4a8)
-* [衣明志_ASP.NET MVC之外的选择Nancy开发框架](https://share.weiyun.com/5kODOyH)
-* [马洪喜_.NET Core微服务实战经验分享](https://share.weiyun.com/5Y8I8xP)
-* [Anduin_.NET Core+Angular构建PWA应用实战](https://share.weiyun.com/5xAE3Yi)
-* [陈超_机器学习与新一代认知智能，有用又有趣的平民化AI](https://share.weiyun.com/50k2cOp)
-* [李争_.NET Core 跨平台应用程序调试](https://share.weiyun.com/5zkIFwX)
+* [吴树波_工作型PPT颜值速效改进方案](https://www.bilibili.com/video/av23713444/?p=6) [B站](https://www.bilibili.com/video/av23713444/?p=6) [腾讯](https://share.weiyun.com/5gJ3kYH)
+* [张昌伟_基于WindowsML构建人工智能创新应用](https://www.bilibili.com/video/av23713444/?p=7) [B站](https://www.bilibili.com/video/av23713444/?p=7) [腾讯](https://share.weiyun.com/5ZsJ4a8)
+* [衣明志_ASP.NET MVC之外的选择Nancy开发框架](https://www.bilibili.com/video/av23713444/?p=8) [B站](https://www.bilibili.com/video/av23713444/?p=8) [腾讯](https://share.weiyun.com/5kODOyH)
+* [马洪喜_.NET Core微服务实战经验分享](https://www.bilibili.com/video/av23713444/?p=9) [B站](https://www.bilibili.com/video/av23713444/?p=9) [腾讯](https://share.weiyun.com/5Y8I8xP)
+* [Anduin_.NET Core+Angular构建PWA应用实战](https://www.bilibili.com/video/av23713444/?p=10) [B站](https://www.bilibili.com/video/av23713444/?p=10) [腾讯](https://share.weiyun.com/5xAE3Yi)
+* [陈超_机器学习与新一代认知智能，有用又有趣的平民化AI](https://www.bilibili.com/video/av23713444/?p=11) [B站](https://www.bilibili.com/video/av23713444/?p=11) [腾讯](https://share.weiyun.com/50k2cOp)
+* [李争_.NET Core 跨平台应用程序调试](https://www.bilibili.com/video/av23713444/?p=12) [B站](https://www.bilibili.com/video/av23713444/?p=12) [腾讯](https://share.weiyun.com/5zkIFwX)
 
 
 * ### 19:00 - 21:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](https://share.weiyun.com/5prnOmC)
-* [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](https://share.weiyun.com/5dOzpXM)
-* [卿毅_区块链应用与基于Azure的实践](https://share.weiyun.com/5TxubO3)
-* [潘淳_EXCEL 开发简史](https://share.weiyun.com/56pehX5)
-* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://share.weiyun.com/5w7fQ8k)
+* [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](https://www.bilibili.com/video/av23713444/?p=13) [B站](https://www.bilibili.com/video/av23713444/?p=13) [腾讯](https://share.weiyun.com/5prnOmC)
+* [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](https://www.bilibili.com/video/av23713444/?p=14) [B站](https://www.bilibili.com/video/av23713444/?p=14) [腾讯](https://share.weiyun.com/5dOzpXM)
+* [卿毅_区块链应用与基于Azure的实践](https://www.bilibili.com/video/av23713444/?p=15) [B站](https://www.bilibili.com/video/av23713444/?p=15) [腾讯](https://share.weiyun.com/5TxubO3)
+* [潘淳_EXCEL 开发简史](https://www.bilibili.com/video/av23713444/?p=16) [B站](https://www.bilibili.com/video/av23713444/?p=16) [腾讯](https://share.weiyun.com/56pehX5)
+* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](https://www.bilibili.com/video/av23713444/?p=17) [B站](https://www.bilibili.com/video/av23713444/?p=17) [腾讯](https://share.weiyun.com/5w7fQ8k)
 
 * ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众讲师互动、峰会未来规划 
 
