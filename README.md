@@ -29,13 +29,13 @@
 
 * ### 10:00 - 11:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [Mike_集齐C#七龙珠，迎接dnc开源新生态](https://share.weiyun.com/55xepPV)
-* [朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台](https://share.weiyun.com/5oA8Lpn)
-* [陈计节_WPF应用基于dnc的跨平台重生](https://share.weiyun.com/5Xx96sc)
-* [张善友_微服务NanoFabric](https://share.weiyun.com/5I7rYJT)
-* [Christina Liang_微软MVP奖励计划介绍](https://share.weiyun.com/57qFFDm)
-* [苏震巍_使用.NET Core快速开发微信公众号和小程序](https://share.weiyun.com/5gzTFOJ)
-* [陈希章_Office 365拥抱开源](https://share.weiyun.com/5TGLrut)
+* [Mike_集齐C#七龙珠，迎接dnc开源新生态](https://www.bilibili.com/video/av23690957/?p=2) [B站](https://www.bilibili.com/video/av23690957/?p=2) [腾讯](https://share.weiyun.com/55xepPV)
+* [朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台](https://www.bilibili.com/video/av23690957/?p=3) [B站](https://www.bilibili.com/video/av23690957/?p=3) [腾讯](https://share.weiyun.com/5oA8Lpn)
+* [陈计节_WPF应用基于dnc的跨平台重生](https://www.bilibili.com/video/av23690957/?p=4) [B站](https://www.bilibili.com/video/av23690957/?p=4) [腾讯](https://share.weiyun.com/5Xx96sc)
+* [张善友_微服务NanoFabric](https://www.bilibili.com/video/av23690957/?p=5) [B站](https://www.bilibili.com/video/av23690957/?p=5) [腾讯](https://share.weiyun.com/5I7rYJT)
+* [Christina Liang_微软MVP奖励计划介绍](https://www.bilibili.com/video/av23690957/?p=6) [B站](https://www.bilibili.com/video/av23690957/?p=6) [腾讯](https://share.weiyun.com/57qFFDm)
+* [苏震巍_使用.NET Core快速开发微信公众号和小程序](https://www.bilibili.com/video/av23690957/?p=7) [B站](https://www.bilibili.com/video/av23690957/?p=7) [腾讯](https://share.weiyun.com/5gzTFOJ)
+* [陈希章_Office 365拥抱开源](https://www.bilibili.com/video/av23690957/?p=8) [B站](https://www.bilibili.com/video/av23690957/?p=8) [腾讯](https://share.weiyun.com/5TGLrut)
 
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
@@ -137,7 +137,7 @@
 ### 听众报名方式
 * 听众无需报名，在联盟节点 视频平台、QQ群、微信群…观看
 
-<div align="center">
+<div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/dnc1.png" width="35%">   
 <img src="https://github.com/dncNew/dncNew/raw/master/img/dnc2.png" width="35%">
 </div>
