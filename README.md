@@ -13,9 +13,9 @@
 * 形式：每个主题5分钟-15分钟闪电演讲
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 
-## 本届峰会胜利闭幕，下届再相聚 [B站直播](http://live.bilibili.com/10404109)
+## 首届峰会胜利闭幕，下届再相聚 [B站直播](http://live.bilibili.com/10404109)
 
-## 本届峰会全部27场演讲已提供视频回放，请点击演讲主题查看
+## 首届峰会全部27场演讲已提供视频回放，请点击演讲主题查看
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/gift1.png" width="100%">   
