@@ -6,7 +6,7 @@
 * 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 形式：每个主题5分钟-15分钟闪电演讲
 
-## 本届峰会胜利闭幕，下届再相聚 [B站](http://live.bilibili.com/10404109) | [T站twitch](https://www.twitch.tv/anduin2019/)
+## 本届峰会胜利闭幕，下届再相聚 [B站](http://live.bilibili.com/10404109)
 
 ## 本届峰会全部27场演讲已提供视频回放，请点击演讲主题查看
 
