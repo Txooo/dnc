@@ -29,24 +29,24 @@
 
 * ### 10:00 - 11:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [Mike_集齐C#七龙珠，迎接dnc开源新生态](http://v.huya.com/play/29929883.html) [B站](https://www.bilibili.com/video/av23690957/?p=2) [腾讯](https://share.weiyun.com/55xepPV) [虎牙](http://v.huya.com/play/29929883.html)
-* [朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台](http://v.huya.com/play/29929903.html) [B站](https://www.bilibili.com/video/av23690957/?p=3) [腾讯](https://share.weiyun.com/5oA8Lpn) [虎牙](http://v.huya.com/play/29929903.html)
-* [陈计节_WPF应用基于dnc的跨平台重生](http://v.huya.com/play/30109027.html) [B站](https://www.bilibili.com/video/av23690957/?p=4) [腾讯](https://share.weiyun.com/5Xx96sc) [虎牙](http://v.huya.com/play/30109027.html)
-* [张善友_微服务NanoFabric](http://v.huya.com/play/30109053.html) [B站](https://www.bilibili.com/video/av23690957/?p=5) [腾讯](https://share.weiyun.com/5I7rYJT) [虎牙](http://v.huya.com/play/30109053.html)
-* [Christina Liang_微软MVP奖励计划介绍](http://v.huya.com/play/30109065.html) [B站](https://www.bilibili.com/video/av23690957/?p=6) [腾讯](https://share.weiyun.com/57qFFDm) [虎牙](http://v.huya.com/play/30109065.html)
-* [苏震巍_使用.NET Core快速开发微信公众号和小程序](http://v.huya.com/play/30109077.html) [B站](https://www.bilibili.com/video/av23690957/?p=7) [腾讯](https://share.weiyun.com/5gzTFOJ) [虎牙](http://v.huya.com/play/30109077.html)
-* [陈希章_Office 365拥抱开源](http://v.huya.com/play/30109079.html) [B站](https://www.bilibili.com/video/av23690957/?p=8) [腾讯](https://share.weiyun.com/5TGLrut) [虎牙](http://v.huya.com/play/30109079.html)
+* [Mike_集齐C#七龙珠，迎接dnc开源新生态](http://v.huya.com/play/29929883.html) [B站](https://www.bilibili.com/video/av23690957/?p=2) [腾讯](https://share.weiyun.com/55xepPV) [虎牙](http://v.huya.com/play/29929883.html) [斗鱼](https://v.douyu.com/show/ERALvEx9BEmW1Vw0)
+* [朱永光_基于微软开源微服务框架ServiceFabric构建单点登录平台](http://v.huya.com/play/29929903.html) [B站](https://www.bilibili.com/video/av23690957/?p=3) [腾讯](https://share.weiyun.com/5oA8Lpn) [虎牙](http://v.huya.com/play/29929903.html) [斗鱼](https://v.douyu.com/show/yVY8WwXP56BvLOz9)
+* [陈计节_WPF应用基于dnc的跨平台重生](http://v.huya.com/play/30109027.html) [B站](https://www.bilibili.com/video/av23690957/?p=4) [腾讯](https://share.weiyun.com/5Xx96sc) [虎牙](http://v.huya.com/play/30109027.html) [斗鱼](https://v.douyu.com/show/85BAvq1m5wqvG4Lm)
+* [张善友_微服务NanoFabric](http://v.huya.com/play/30109053.html) [B站](https://www.bilibili.com/video/av23690957/?p=5) [腾讯](https://share.weiyun.com/5I7rYJT) [虎牙](http://v.huya.com/play/30109053.html) [斗鱼](https://v.douyu.com/show/8pa9v5pZXZKWVrqA)
+* [Christina Liang_微软MVP奖励计划介绍](http://v.huya.com/play/30109065.html) [B站](https://www.bilibili.com/video/av23690957/?p=6) [腾讯](https://share.weiyun.com/57qFFDm) [虎牙](http://v.huya.com/play/30109065.html) [斗鱼](https://v.douyu.com/show/Kp1QM8LZjZJMk4bj)
+* [苏震巍_使用.NET Core快速开发微信公众号和小程序](http://v.huya.com/play/30109077.html) [B站](https://www.bilibili.com/video/av23690957/?p=7) [腾讯](https://share.weiyun.com/5gzTFOJ) [虎牙](http://v.huya.com/play/30109077.html) [斗鱼](https://v.douyu.com/show/8KxjMdBj59QvVLwb)
+* [陈希章_Office 365拥抱开源](http://v.huya.com/play/30109079.html) [B站](https://www.bilibili.com/video/av23690957/?p=8) [腾讯](https://share.weiyun.com/5TGLrut) [虎牙](http://v.huya.com/play/30109079.html) [斗鱼](https://v.douyu.com/show/0Q8mMYaKjKNM49Ad)
 
 * ### 14:00 - 15:50 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109)  | [twitch](https://www.twitch.tv/anduin2019/)
 
-* [Lex Li_IIS故障诊断利器JexusManager](http://v.huya.com/play/30109085.html) [B站](https://www.bilibili.com/video/av23690957/?p=9) [腾讯](https://share.weiyun.com/50QU7Hn) [虎牙](http://v.huya.com/play/30109085.html)
-* [邓太华_iMSF实时消息服务框架](http://v.huya.com/play/30109089.html) [B站](https://www.bilibili.com/video/av23690957/?p=10) [腾讯](https://share.weiyun.com/5oXf51u) [虎牙](http://v.huya.com/play/30109089.html)
-* [管震_AzureSphere微软物联网开源Linux发行版](http://v.huya.com/play/30109093.html) [B站](https://www.bilibili.com/video/av23690957/?p=11) [腾讯](https://share.weiyun.com/52SKoC2) [虎牙](http://v.huya.com/play/30109093.html)
-* [戎朋_aelf开源区块链dnc C#](http://v.huya.com/play/30109097.html) [B站](https://www.bilibili.com/video/av23713444/?p=1) [腾讯](https://share.weiyun.com/5c7sUvM) [虎牙](http://v.huya.com/play/30109097.html)
-* [刘永新_NNS如何提升NEO易用性](http://v.huya.com/play/30109105.html) [B站](https://www.bilibili.com/video/av23713444/?p=2) [腾讯](https://share.weiyun.com/5u7PMdj) [虎牙](http://v.huya.com/play/30109105.html)
-* [杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好](http://v.huya.com/play/30109107.html) [B站](https://www.bilibili.com/video/av23713444/?p=3) [腾讯](https://share.weiyun.com/53NQHOc) [虎牙](http://v.huya.com/play/30109107.html)
-* [卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM](http://v.huya.com/play/30111639.html) [B站](https://www.bilibili.com/video/av23713444/?p=4) [腾讯](https://share.weiyun.com/5ZGsmuw) [虎牙](http://v.huya.com/play/30111639.html)
-* [桂素伟_基于.NET Core微服务](http://v.huya.com/play/30109115.html) [B站](https://www.bilibili.com/video/av23713444/?p=5) [腾讯](https://share.weiyun.com/59BGeMX) [虎牙](http://v.huya.com/play/30109115.html)
+* [Lex Li_IIS故障诊断利器JexusManager](http://v.huya.com/play/30109085.html) [B站](https://www.bilibili.com/video/av23690957/?p=9) [腾讯](https://share.weiyun.com/50QU7Hn) [虎牙](http://v.huya.com/play/30109085.html) [斗鱼](https://v.douyu.com/show/kDe0W20QXQg7A4Bz)
+* [邓太华_iMSF实时消息服务框架](http://v.huya.com/play/30109089.html) [B站](https://www.bilibili.com/video/av23690957/?p=10) [腾讯](https://share.weiyun.com/5oXf51u) [虎牙](http://v.huya.com/play/30109089.html) [斗鱼](https://v.douyu.com/show/Aox276NZXQV7Vz8Z)
+* [管震_AzureSphere微软物联网开源Linux发行版](http://v.huya.com/play/30109093.html) [B站](https://www.bilibili.com/video/av23690957/?p=11) [腾讯](https://share.weiyun.com/52SKoC2) [虎牙](http://v.huya.com/play/30109093.html) [斗鱼](https://v.douyu.com/show/n8GzMXG0j0y76qyP)
+* [戎朋_aelf开源区块链dnc C#](http://v.huya.com/play/30109097.html) [B站](https://www.bilibili.com/video/av23713444/?p=1) [腾讯](https://share.weiyun.com/5c7sUvM) [虎牙](http://v.huya.com/play/30109097.html) [斗鱼](https://v.douyu.com/show/Yo4evym8Qbxv8L62)
+* [刘永新_NNS如何提升NEO易用性](http://v.huya.com/play/30109105.html) [B站](https://www.bilibili.com/video/av23713444/?p=2) [腾讯](https://share.weiyun.com/5u7PMdj) [虎牙](http://v.huya.com/play/30109105.html) [斗鱼](https://v.douyu.com/show/2V0JMVKbjlEWRY5k)
+* [杨中科_脱离微软的盈利目的，开源免费、社区驱动的.NET Core更美好](http://v.huya.com/play/30109107.html) [B站](https://www.bilibili.com/video/av23713444/?p=3) [腾讯](https://share.weiyun.com/53NQHOc) [虎牙](http://v.huya.com/play/30109107.html) [斗鱼](https://v.douyu.com/show/GnzXvb8OK40M462l)
+* [卢建晖_Platform.Uno基于XAML C#开发iOS、Android、WASM](http://v.huya.com/play/30111639.html) [B站](https://www.bilibili.com/video/av23713444/?p=4) [腾讯](https://share.weiyun.com/5ZGsmuw) [虎牙](http://v.huya.com/play/30111639.html) [斗鱼](https://v.douyu.com/show/Bjq4MeDZXE475Ea8)
+* [桂素伟_基于.NET Core微服务](http://v.huya.com/play/30109115.html) [B站](https://www.bilibili.com/video/av23713444/?p=5) [腾讯](https://share.weiyun.com/59BGeMX) [虎牙](http://v.huya.com/play/30109115.html) [斗鱼](https://v.douyu.com/show/8pa9v5pZ3OPWVrqA)
 
 
 * ### 16:00 - 16:15 抽奖环节 [抽奖规则](https://github.com/dncNew/dncNew/blob/master/gift.md) 
@@ -54,22 +54,22 @@
 
 * ### 16:15 - 18:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [吴树波_工作型PPT颜值速效改进方案](http://v.huya.com/play/30109119.html) [B站](https://www.bilibili.com/video/av23713444/?p=6) [腾讯](https://share.weiyun.com/5gJ3kYH) [虎牙](http://v.huya.com/play/30109119.html)
-* [张昌伟_基于WindowsML构建人工智能创新应用](http://v.huya.com/play/30109129.html) [B站](https://www.bilibili.com/video/av23713444/?p=7) [腾讯](https://share.weiyun.com/5ZsJ4a8) [虎牙](http://v.huya.com/play/30109129.html)
-* [衣明志_ASP.NET MVC之外的选择Nancy开发框架](http://v.huya.com/play/30109133.html) [B站](https://www.bilibili.com/video/av23713444/?p=8) [腾讯](https://share.weiyun.com/5kODOyH) [虎牙](http://v.huya.com/play/30109133.html)
-* [马洪喜_.NET Core微服务实战经验分享](http://v.huya.com/play/30109137.html) [B站](https://www.bilibili.com/video/av23713444/?p=9) [腾讯](https://share.weiyun.com/5Y8I8xP) [虎牙](http://v.huya.com/play/30109137.html)
-* [Anduin_.NET Core+Angular构建PWA应用实战](http://v.huya.com/play/30109139.html) [B站](https://www.bilibili.com/video/av23713444/?p=10) [腾讯](https://share.weiyun.com/5xAE3Yi) [虎牙](http://v.huya.com/play/30109139.html)
-* [陈超_机器学习与新一代认知智能，有用又有趣的平民化AI](http://v.huya.com/play/30109145.html) [B站](https://www.bilibili.com/video/av23713444/?p=11) [腾讯](https://share.weiyun.com/50k2cOp) [虎牙](http://v.huya.com/play/30109145.html)
-* [李争_.NET Core 跨平台应用程序调试](http://v.huya.com/play/30109149.html) [B站](https://www.bilibili.com/video/av23713444/?p=12) [腾讯](https://share.weiyun.com/5zkIFwX) [虎牙](http://v.huya.com/play/30109149.html)
+* [吴树波_工作型PPT颜值速效改进方案](http://v.huya.com/play/30109119.html) [B站](https://www.bilibili.com/video/av23713444/?p=6) [腾讯](https://share.weiyun.com/5gJ3kYH) [虎牙](http://v.huya.com/play/30109119.html) [斗鱼](https://v.douyu.com/show/Qyz171w5ybBWBJj9)
+* [张昌伟_基于WindowsML构建人工智能创新应用](http://v.huya.com/play/30109129.html) [B站](https://www.bilibili.com/video/av23713444/?p=7) [腾讯](https://share.weiyun.com/5ZsJ4a8) [虎牙](http://v.huya.com/play/30109129.html) [斗鱼](https://v.douyu.com/show/wLjGvLlPJz0vmO90)
+* [衣明志_ASP.NET MVC之外的选择Nancy开发框架](http://v.huya.com/play/30109133.html) [B站](https://www.bilibili.com/video/av23713444/?p=8) [腾讯](https://share.weiyun.com/5kODOyH) [虎牙](http://v.huya.com/play/30109133.html) [斗鱼](https://v.douyu.com/show/ERALvEx9B0jW1Vw0)
+* [马洪喜_.NET Core微服务实战经验分享](http://v.huya.com/play/30109137.html) [B站](https://www.bilibili.com/video/av23713444/?p=9) [腾讯](https://share.weiyun.com/5Y8I8xP) [虎牙](http://v.huya.com/play/30109137.html) [斗鱼](https://v.douyu.com/show/yVY8WwXP5GVvLOz9)
+* [Anduin_.NET Core+Angular构建PWA应用实战](http://v.huya.com/play/30109139.html) [B站](https://www.bilibili.com/video/av23713444/?p=10) [腾讯](https://share.weiyun.com/5xAE3Yi) [虎牙](http://v.huya.com/play/30109139.html) [斗鱼](https://v.douyu.com/show/ZB5Kv9mXERjva93x)
+* [陈超_机器学习与新一代认知智能，有用又有趣的平民化AI](http://v.huya.com/play/30109145.html) [B站](https://www.bilibili.com/video/av23713444/?p=11) [腾讯](https://share.weiyun.com/50k2cOp) [虎牙](http://v.huya.com/play/30109145.html) [斗鱼](https://v.douyu.com/show/Kg1VWR5bo9QMGbNA)
+* [李争_.NET Core 跨平台应用程序调试](http://v.huya.com/play/30109149.html) [B站](https://www.bilibili.com/video/av23713444/?p=12) [腾讯](https://share.weiyun.com/5zkIFwX) [虎牙](http://v.huya.com/play/30109149.html) [斗鱼](https://v.douyu.com/show/yVY8WwXP52PvLOz9)
 
 
 * ### 19:00 - 21:00 峰会演讲 视频平台 [B站](http://live.bilibili.com/10404109) |  [twitch](https://www.twitch.tv/anduin2019/)
 
-* [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](http://v.huya.com/play/30109167.html) [B站](https://www.bilibili.com/video/av23713444/?p=13) [腾讯](https://share.weiyun.com/5prnOmC) [虎牙](http://v.huya.com/play/30109167.html)
-* [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](http://v.huya.com/play/30109159.html) [B站](https://www.bilibili.com/video/av23713444/?p=14) [腾讯](https://share.weiyun.com/5dOzpXM) [虎牙](http://v.huya.com/play/30109159.html)
-* [卿毅_区块链应用与基于Azure的实践](http://v.huya.com/play/30109161.html) [B站](https://www.bilibili.com/video/av23713444/?p=15) [腾讯](https://share.weiyun.com/5TxubO3) [虎牙](http://v.huya.com/play/30109161.html)
-* [潘淳_EXCEL开发简史之风云再起](http://v.huya.com/play/30109163.html) [B站](https://www.bilibili.com/video/av23713444/?p=16) [腾讯](https://share.weiyun.com/56pehX5) [虎牙](http://v.huya.com/play/30109163.html)
-* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](http://v.huya.com/play/30112005.html) [B站](https://www.bilibili.com/video/av23713444/?p=17) [腾讯](https://share.weiyun.com/5w7fQ8k) [虎牙](http://v.huya.com/play/30112005.html)
+* [刘圣波_.NET开源跨平台工业组态软件RapidScada实战](http://v.huya.com/play/30109167.html) [B站](https://www.bilibili.com/video/av23713444/?p=13) [腾讯](https://share.weiyun.com/5prnOmC) [虎牙](http://v.huya.com/play/30109167.html) [斗鱼](https://v.douyu.com/show/NbwE7ZBlADJ7n5Zz)
+* [刘海峰_STB Chain基于区块链的软件版权保护和交易平台](http://v.huya.com/play/30109159.html) [B站](https://www.bilibili.com/video/av23713444/?p=14) [腾讯](https://share.weiyun.com/5dOzpXM) [虎牙](http://v.huya.com/play/30109159.html) [斗鱼](https://v.douyu.com/show/1LDR7Qp8aOZvJzx8)
+* [卿毅_区块链应用与基于Azure的实践](http://v.huya.com/play/30109161.html) [B站](https://www.bilibili.com/video/av23713444/?p=15) [腾讯](https://share.weiyun.com/5TxubO3) [虎牙](http://v.huya.com/play/30109161.html) [斗鱼](https://v.douyu.com/show/Kp1QM8LZje3Mk4bj)
+* [潘淳_EXCEL开发简史之风云再起](http://v.huya.com/play/30109163.html) [B站](https://www.bilibili.com/video/av23713444/?p=16) [腾讯](https://share.weiyun.com/56pehX5) [虎牙](http://v.huya.com/play/30109163.html) [斗鱼](https://v.douyu.com/show/85BAvq1m5bBvG4Lm)
+* [周岳_.NET跨平台客户端技术及工具：Xamarin介绍及未来展望](http://v.huya.com/play/30112005.html) [B站](https://www.bilibili.com/video/av23713444/?p=17) [腾讯](https://share.weiyun.com/5w7fQ8k) [虎牙](http://v.huya.com/play/30112005.html) [斗鱼](https://v.douyu.com/show/a2JEMJw2OaDWNxml)
 
 * ### 21:00 - 21:30 [抽奖环节](https://github.com/dncNew/dncNew/blob/master/gift.md) 、听众讲师互动、峰会未来规划 
 
