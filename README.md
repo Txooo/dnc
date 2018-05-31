@@ -217,3 +217,13 @@
 * dnc招聘信息70多个公司，欢迎补充 http://www.cnblogs.com/dncNew/p/dncjob.html 
 * dnc开源梦之队2018 开源项目精选集 https://github.com/dncNew/dncNew/blob/master/dnc.md
 
+
+### dnc三大最有前景的领域：开源微服务、开源区块链、开源人工智能
+
+* 1、微软官方开源的微服务框架SF 支持本地部署、Azure云、其它云部署，底层C++开发，应用层支持C#、go、java、php、python等语言，SF是微软云核心组件，经过超大规模云平台实战验证和很多世界500强公司及创新公司实战验证，支持ServiceMesh新一代微服务底层机制 https://docs.microsoft.com/zh-cn/azure/service-fabric/
+
+
+* 2、C#开源区块链三巨头neo、aelf、stratis，生态圈先发优势，区块链底层基于C#开发，dnc跨平台Linux、docker部署，应用层智能合约支持C#、go、java、py等多种编程语言 [neo.org](http://neo.org)、[aelf.io](http://aelf.io)、[stratisplatform.com](http://stratisplatform.com)
+
+
+* 3、C#开源人工智能ML.NET，微软人工智能黑科技注入C#开源平台 http://dot.net/ML
