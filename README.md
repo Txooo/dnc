@@ -3,7 +3,7 @@
 * 时间：2018年12月30日 周日
 * 地点：在线峰会、远程参与
 * 形式：每个主题10分钟-20分钟闪电演讲
-* 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
+* 官网：[dncto.com](http://dncto.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * 讲师：正在邀请峰会讲师 [欢迎讲师来演讲](https://github.com/dncNew/dncNew/blob/master/dncSpeaker.md)
 
 ## 首届.NET Core开源峰会
@@ -148,7 +148,7 @@
 * 欢迎进入dnc新时代
 
 ### 峰会主办方
-* [dnc开源社区CTO联盟](http://dncNew.com)
+* [dnc开源社区CTO联盟](http://dncto.com)
 * [aelf基金会](https://www.aelf.io)
 * [视高盛景](http://www.highviewsoft.com)
 * [STB Chain基金会](https://www.soft2b.com)
@@ -164,7 +164,7 @@
 </div>
 
 ### 峰会联盟节点
-* 峰会官网 [dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
+* 峰会官网 [dncto.com](http://dncto.com) | [aka.ms/dnc](https://aka.ms/dnc)
 * [峰会B站视频](http://live.bilibili.com/10404109)
 * [峰会bopoda视频](http://bxug.bopoda.com/p/event/NETConfChina2018)
 * [峰会虎牙视频](http://v.huya.com/u/2254852718)
