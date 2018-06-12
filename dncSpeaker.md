@@ -14,4 +14,4 @@
 * 时间：2018年12月30日 周日
 * 地点：在线峰会、远程参与
 * 形式：每个主题10分钟-20分钟闪电演讲
-* 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
+* 官网：[dncto.com](http://dncto.com) | [aka.ms/dnc](https://aka.ms/dnc)
