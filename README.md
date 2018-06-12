@@ -84,18 +84,17 @@
 ## 演讲主题
 * dnc、微服务、开源区块链、人工智能、Azure云、IoT、Service Fabric、DevOps、VSTS、Xamarin、Unity3D、TypeScript、Vue、微信小程序、Tidb、Redis、RabbitMQ、Kafka、ELK、Ocelot、office365、Linux、Docker、Rancher、k8s、量子计算、天使VC、创业经验分享……等
 
-* dnc = .NET Core、dotnet Core
+* dnc = .NET Core简称
 
 <div align="left">
 <img src="https://github.com/dncNew/dncNew/raw/master/img/a2.jpg" height="200"  >
 </div>
 
-## 峰会讲师32人（按确认时间）
+## 峰会讲师27人（按确认时间）
 
 * 周岳 视高盛景创始人、首席架构师、Xamarin、Azure技术专家
 * 朱永光 微软技术顾问《基于sf和ids实现高可用高伸缩单点登录平台》
 * 刘海峰 STB Chain Foundation主席，工信部MIC区块链专委会理事长，BDFund合伙人，区块链梦工场创始人
-* 俞阳 青客 .NET开发部总监、总架构师
 * 陈计节 ThoughtWorks 资深架构师《WPF应用基于dnc的跨平台重生》
 * 潘淳 中国Office开发者联盟发起人
 * Mike dnc开源社区CEO/CTO/VC联盟发起人
@@ -103,10 +102,8 @@
 * Christina Liang 微软全球MVP项目大中华区负责人
 * Anduin 北京切尔思科技架构师、兼任东北大学信息安全工程师和技术主播、《dnc + Angular 前后端分离PWA实战》
 * 苏震巍 盛派网络创始人，首席架构师
-* 鲍东海 全球区块链大数据创始人兼CTO、前微软官方成功案例首席构架师
 * 杨中科 如鹏网创始人、IT在线教育专家
 * 张善友 腾讯资深工程师 NanoFabric
-* 白海石 微软美国 资深技术专家 Service Fabric、virtual-kubelet
 * 刘圣波 北京林业大学工学院教师 研究工业控制方向的.net应用 《.net开源跨平台工业组态软件RapidScada》
 * 李争《微软互联网信息服务IIS最佳实践》作者《dnc在Linux下调试》
 * 刘永新 NEO中国开发者社区NEL创始人、NEO域名服务NNS创始人
@@ -116,9 +113,7 @@
 * 桂素伟 大连医卫技术总监、.NET Core布道师、《dnc微服务架构》
 * 卿毅 58COIN.com公司CIO、启路CTO、区块链技术专家
 * 陈希章 微软（亚洲）互联网工程院高级产品经理、《Office 365 开发入门指南》作者、《Office 365 开发的开源平台支持》
-* 杨志洪 DBAplus社群联合发起人，《Oracle核心技术》译者
 * 衣明志 烟台易云网络创始人
-* 徐磊 LEANSOFT CEO/首席架构师、微软Regional Director《微软MVP程序员带你玩转Docker和k8s》
 * 陈超 微软亚太研发集团云计算与企业事业部PM，专注人工智能技术应用实战落地，曾获大连市研究生机器人大赛一等奖，担任亚太机器人大赛RoboCup中国区总决赛裁判，编程之美大赛AI技术顾问、导师
 * 张昌伟 微软企业解决方案专家，Microsoft Tech Summit 2017讲师，擅长跨平台移动开发和混合现实开发《WindowsML带来的技术革新》
 * 邓太华 资深架构师，涉及旅游、金融、电商、政府等行业，欧洲某跨国企业集团中国分公司系统架构师，研发“云-端”计算的新一代企业信息化系统，博客园“深蓝医生”PDF.NET开源作者《iMSF框架—实时消息服务框架》
@@ -186,7 +181,7 @@
 
 ### dnc简介
 
-* dnc = .NET Core、dotnet Core简称，方便快速输入、促进新技术流行，例如SF、ELK、k8s等简称对技术流行的助力
+* dnc = .NET Core简称，方便快速输入、促进新技术流行，例如SF、k8s、ELK等简称对新技术潮流的助力
 * dnc是微软新一代主力编程平台，开源、免费、跨平台、轻量级、高性能，支持Linux、Docker、k8s等环境，适合开发微服务、云原生、大型互联网应用、全开源解决方案
 
 ### dnc国内公司案例
