@@ -22,7 +22,7 @@
 
 ###  Step3：发完邮件后，请在QQ加群时的答案输入框填写：
 
-* gh/你的github项目（例如gh/dncNew，用gh代替github.com防止QQ输入框字数不够）
+* gh/你的github项目（例如gh/dncto，用gh代替github.com防止QQ输入框字数不够）
 
 
 ## 第二届.NET Core开源峰会
