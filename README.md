@@ -216,7 +216,7 @@
 * dnc工程师：15K-20K
 * dnc高级工程师：20K-30K + 期权/股权/Token激励
 * dnc架构师：25K-45K + 期权/股权/Token激励
-* dnc方向CTO/技术总监：+ 期权/股权/Token激励
+* dnc方向CTO/技术总监：35K-100K + 期权/股权/Token激励
 * dnc招聘信息70多个公司，欢迎补充 http://www.cnblogs.com/dncNew/p/dncjob.html 
 
 ### dnc最热门三大领域：开源微服务、开源区块链、开源人工智能
