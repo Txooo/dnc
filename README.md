@@ -1,17 +1,17 @@
-## 第二届.NET Core开源峰会
+## 第二届dnc开源峰会
 * 亮点：去中心化、社区驱动 开源峰会
-* 时间：2018年12月30日 周日
+* 时间：2019年
 * 地点：在线峰会、远程参与
 * 形式：每个主题10分钟-20分钟闪电演讲
 * 官网：[dncto.com](http://dncto.com) | [aka.ms/dnc](https://aka.ms/dnc)
-* 讲师：[欢迎讲师报名演讲](https://github.com/dncNew/dncNew/blob/master/dncSpeaker.md)
+* 讲师：[欢迎讲师报名演讲](https://github.com/dncto/dnc/blob/master/dncSpeaker.md)
 
-## 首届.NET Core开源峰会
+## 首届dnc开源峰会
 * 亮点：去中心化、社区驱动 开源峰会
 * 时间：2018年5月20日 周日
 * 地点：在线峰会、远程参与
 * 形式：每个主题5分钟-15分钟闪电演讲
-* 官网：[dncNew.com](http://dncNew.com) | [aka.ms/dnc](https://aka.ms/dnc)
+* 官网：[dncto.com](http://dncto.com) | [aka.ms/dnc](https://aka.ms/dnc)
 
 ## 首届峰会胜利闭幕，下届再相聚 [B站直播](http://live.bilibili.com/10404109)
 
